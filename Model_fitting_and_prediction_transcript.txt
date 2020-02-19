@@ -1,0 +1,2100 @@
+cluster: 2  product: alaska basil
+Epoch 1000/6000 - training set total rating error: 498.9303368980026
+Epoch 2000/6000 - training set total rating error: 48.23743658509222
+Epoch 3000/6000 - training set total rating error: 35.24839049098423
+Epoch 4000/6000 - training set total rating error: 34.68637884488725
+Epoch 5000/6000 - training set total rating error: 34.654782652397245
+Epoch 6000/6000 - training set total rating error: 34.6528219182719
+cluster: 2  product: alcohol future
+Epoch 1000/6000 - training set total rating error: 1340.1160152624168
+Epoch 2000/6000 - training set total rating error: 361.73689770647877
+Epoch 3000/6000 - training set total rating error: 57.48325731477381
+Epoch 4000/6000 - training set total rating error: 33.96597532497734
+Epoch 5000/6000 - training set total rating error: 31.924637203134285
+Epoch 6000/6000 - training set total rating error: 31.705994405732522
+cluster: 2  product: alice ticket
+Epoch 1000/6000 - training set total rating error: 987.9069927936575
+Epoch 2000/6000 - training set total rating error: 397.7944955933193
+Epoch 3000/6000 - training set total rating error: 155.72671377831475
+Epoch 4000/6000 - training set total rating error: 73.94612070920924
+Epoch 5000/6000 - training set total rating error: 47.328609130132136
+Epoch 6000/6000 - training set total rating error: 37.93036203781765
+cluster: 2  product: alien potato
+Epoch 1000/6000 - training set total rating error: 1382.29131040206
+Epoch 2000/6000 - training set total rating error: 80.18491833743887
+Epoch 3000/6000 - training set total rating error: 50.431546565703805
+Epoch 4000/6000 - training set total rating error: 49.45253840304173
+Epoch 5000/6000 - training set total rating error: 49.40764625274142
+Epoch 6000/6000 - training set total rating error: 49.405344582425506
+cluster: 2  product: asia jacket
+Epoch 1000/6000 - training set total rating error: 1251.767231223547
+Epoch 2000/6000 - training set total rating error: 158.07729873435648
+Epoch 3000/6000 - training set total rating error: 44.22939906755071
+Epoch 4000/6000 - training set total rating error: 37.40461707926666
+Epoch 5000/6000 - training set total rating error: 36.780808238590936
+Epoch 6000/6000 - training set total rating error: 36.708322561818626
+cluster: 2  product: aztec iris
+Epoch 1000/6000 - training set total rating error: 719.4538449787276
+Epoch 2000/6000 - training set total rating error: 41.918559185677566
+Epoch 3000/6000 - training set total rating error: 36.727046055875014
+Epoch 4000/6000 - training set total rating error: 36.627671583856554
+Epoch 5000/6000 - training set total rating error: 36.624178177076644
+Epoch 6000/6000 - training set total rating error: 36.62403222646918
+cluster: 2  product: balance hostel
+Epoch 1000/6000 - training set total rating error: 1288.638050307454
+Epoch 2000/6000 - training set total rating error: 500.26220072734606
+Epoch 3000/6000 - training set total rating error: 138.44981979285703
+Epoch 4000/6000 - training set total rating error: 52.68665438318744
+Epoch 5000/6000 - training set total rating error: 36.733206664751975
+Epoch 6000/6000 - training set total rating error: 33.55912956424591
+cluster: 2  product: betty today
+Epoch 1000/6000 - training set total rating error: 739.546707614577
+Epoch 2000/6000 - training set total rating error: 96.33741002300404
+Epoch 3000/6000 - training set total rating error: 59.89465673519772
+Epoch 4000/6000 - training set total rating error: 57.387847861106124
+Epoch 5000/6000 - training set total rating error: 57.14931726729206
+Epoch 6000/6000 - training set total rating error: 57.12309162299899
+cluster: 2  product: boston house
+Epoch 1000/6000 - training set total rating error: 1692.938683532228
+Epoch 2000/6000 - training set total rating error: 1050.3254524240097
+Epoch 3000/6000 - training set total rating error: 413.89734443913426
+Epoch 4000/6000 - training set total rating error: 103.2525163428328
+Epoch 5000/6000 - training set total rating error: 41.599832135954294
+Epoch 6000/6000 - training set total rating error: 32.709376295375904
+cluster: 2  product: bronze sweden
+Epoch 1000/6000 - training set total rating error: 1530.2942173586516
+Epoch 2000/6000 - training set total rating error: 768.3771932933815
+Epoch 3000/6000 - training set total rating error: 175.42313434850388
+Epoch 4000/6000 - training set total rating error: 51.40088377838491
+Epoch 5000/6000 - training set total rating error: 37.80126243079292
+Epoch 6000/6000 - training set total rating error: 35.7271729597561
+cluster: 2  product: bundle forget
+Epoch 1000/6000 - training set total rating error: 1153.73440856908
+Epoch 2000/6000 - training set total rating error: 136.5205824455274
+Epoch 3000/6000 - training set total rating error: 39.12293222997159
+Epoch 4000/6000 - training set total rating error: 33.23046154177446
+Epoch 5000/6000 - training set total rating error: 32.72560414662381
+Epoch 6000/6000 - training set total rating error: 32.67310728838513
+cluster: 2  product: cairo monarch
+Epoch 1000/6000 - training set total rating error: 1066.2089092171875
+Epoch 2000/6000 - training set total rating error: 303.33397059654015
+Epoch 3000/6000 - training set total rating error: 88.56973851342146
+Epoch 4000/6000 - training set total rating error: 50.21201287891265
+Epoch 5000/6000 - training set total rating error: 42.321852066339616
+Epoch 6000/6000 - training set total rating error: 40.56115649772072
+cluster: 2  product: choice copy
+Epoch 1000/6000 - training set total rating error: 1660.4323314041087
+Epoch 2000/6000 - training set total rating error: 172.87769285305362
+Epoch 3000/6000 - training set total rating error: 48.55864693110341
+Epoch 4000/6000 - training set total rating error: 42.02618647968979
+Epoch 5000/6000 - training set total rating error: 41.547324381156265
+Epoch 6000/6000 - training set total rating error: 41.50550103100463
+cluster: 2  product: cinema complex
+Epoch 1000/6000 - training set total rating error: 996.9112545453183
+Epoch 2000/6000 - training set total rating error: 396.53709580862375
+Epoch 3000/6000 - training set total rating error: 122.25230048957981
+Epoch 4000/6000 - training set total rating error: 56.69847466950661
+Epoch 5000/6000 - training set total rating error: 42.99359888326588
+Epoch 6000/6000 - training set total rating error: 39.39332772745849
+cluster: 2  product: cipher empty
+Epoch 1000/6000 - training set total rating error: 968.8725208158744
+Epoch 2000/6000 - training set total rating error: 154.64035723403921
+Epoch 3000/6000 - training set total rating error: 43.4875784349864
+Epoch 4000/6000 - training set total rating error: 33.668621154779515
+Epoch 5000/6000 - training set total rating error: 32.63536806229511
+Epoch 6000/6000 - training set total rating error: 32.50444573502249
+cluster: 2  product: cockpit circle
+Epoch 1000/6000 - training set total rating error: 895.4346787820174
+Epoch 2000/6000 - training set total rating error: 92.32464846061757
+Epoch 3000/6000 - training set total rating error: 68.52213573054689
+Epoch 4000/6000 - training set total rating error: 67.53685340509968
+Epoch 5000/6000 - training set total rating error: 67.48689546716136
+Epoch 6000/6000 - training set total rating error: 67.48406374547565
+cluster: 2  product: comedy clean
+Epoch 1000/6000 - training set total rating error: 1462.5720441617261
+Epoch 2000/6000 - training set total rating error: 651.1528956217711
+Epoch 3000/6000 - training set total rating error: 171.45334209925466
+Epoch 4000/6000 - training set total rating error: 52.05394142537495
+Epoch 5000/6000 - training set total rating error: 37.58096249848249
+Epoch 6000/6000 - training set total rating error: 35.71489191254267
+cluster: 2  product: daniel global
+Epoch 1000/6000 - training set total rating error: 1770.4406880852575
+Epoch 2000/6000 - training set total rating error: 237.913095882325
+Epoch 3000/6000 - training set total rating error: 45.47877318745136
+Epoch 4000/6000 - training set total rating error: 36.661126264885155
+Epoch 5000/6000 - training set total rating error: 35.95004516661188
+Epoch 6000/6000 - training set total rating error: 35.87552791023354
+cluster: 2  product: degree forever
+Epoch 1000/6000 - training set total rating error: 641.9976746435913
+Epoch 2000/6000 - training set total rating error: 47.035204689207404
+Epoch 3000/6000 - training set total rating error: 35.97382867079714
+Epoch 4000/6000 - training set total rating error: 35.44066039638267
+Epoch 5000/6000 - training set total rating error: 35.4070176932325
+Epoch 6000/6000 - training set total rating error: 35.404736547778846
+cluster: 2  product: diana chariot
+Epoch 1000/6000 - training set total rating error: 1388.989639257891
+Epoch 2000/6000 - training set total rating error: 215.13575158305932
+Epoch 3000/6000 - training set total rating error: 43.95107414089549
+Epoch 4000/6000 - training set total rating error: 35.62039760181607
+Epoch 5000/6000 - training set total rating error: 34.97153473300444
+Epoch 6000/6000 - training set total rating error: 34.90813145765877
+cluster: 2  product: diesel jason
+Epoch 1000/6000 - training set total rating error: 1122.4904988772496
+Epoch 2000/6000 - training set total rating error: 123.78467962571408
+Epoch 3000/6000 - training set total rating error: 38.54030992033453
+Epoch 4000/6000 - training set total rating error: 32.774779154688105
+Epoch 5000/6000 - training set total rating error: 31.925703748017465
+Epoch 6000/6000 - training set total rating error: 31.763798420999727
+cluster: 2  product: diploma vocal
+Epoch 1000/6000 - training set total rating error: 1520.7907102361423
+Epoch 2000/6000 - training set total rating error: 572.8442087959559
+Epoch 3000/6000 - training set total rating error: 141.54750318708614
+Epoch 4000/6000 - training set total rating error: 52.27534969724009
+Epoch 5000/6000 - training set total rating error: 39.740214456196504
+Epoch 6000/6000 - training set total rating error: 37.586472858564754
+cluster: 2  product: epoxy insect
+Epoch 1000/6000 - training set total rating error: 1248.970384832391
+Epoch 2000/6000 - training set total rating error: 700.8170802054702
+Epoch 3000/6000 - training set total rating error: 325.88271029025975
+Epoch 4000/6000 - training set total rating error: 119.65358328944595
+Epoch 5000/6000 - training set total rating error: 57.630613395836924
+Epoch 6000/6000 - training set total rating error: 40.65654320662221
+cluster: 2  product: explain heaven
+Epoch 1000/6000 - training set total rating error: 1440.8335108475897
+Epoch 2000/6000 - training set total rating error: 830.0583132952221
+Epoch 3000/6000 - training set total rating error: 371.37948284375364
+Epoch 4000/6000 - training set total rating error: 122.89073604480716
+Epoch 5000/6000 - training set total rating error: 53.20634937518575
+Epoch 6000/6000 - training set total rating error: 38.486654536597
+cluster: 2  product: flame street
+Epoch 1000/6000 - training set total rating error: 1250.7493658226397
+Epoch 2000/6000 - training set total rating error: 320.708159461205
+Epoch 3000/6000 - training set total rating error: 67.7680286181875
+Epoch 4000/6000 - training set total rating error: 42.05501632959152
+Epoch 5000/6000 - training set total rating error: 39.56138072925946
+Epoch 6000/6000 - training set total rating error: 39.25257725061362
+cluster: 2  product: fractal heart
+Epoch 1000/6000 - training set total rating error: 881.1878710115518
+Epoch 2000/6000 - training set total rating error: 347.29711969552756
+Epoch 3000/6000 - training set total rating error: 134.43849933720398
+Epoch 4000/6000 - training set total rating error: 61.703604854773644
+Epoch 5000/6000 - training set total rating error: 39.39765825801307
+Epoch 6000/6000 - training set total rating error: 32.72434779872143
+cluster: 2  product: fresh shave
+Epoch 1000/6000 - training set total rating error: 1084.915494073461
+Epoch 2000/6000 - training set total rating error: 63.03111862776815
+Epoch 3000/6000 - training set total rating error: 36.26220871980599
+Epoch 4000/6000 - training set total rating error: 35.0699199030783
+Epoch 5000/6000 - training set total rating error: 34.99336222247221
+Epoch 6000/6000 - training set total rating error: 34.98775225746899
+cluster: 2  product: frozen command
+Epoch 1000/6000 - training set total rating error: 1061.5014789107936
+Epoch 2000/6000 - training set total rating error: 130.1627638577775
+Epoch 3000/6000 - training set total rating error: 40.673391911117314
+Epoch 4000/6000 - training set total rating error: 34.526139520167895
+Epoch 5000/6000 - training set total rating error: 33.953428265490764
+Epoch 6000/6000 - training set total rating error: 33.8881013169044
+cluster: 2  product: gelatin prime
+Epoch 1000/6000 - training set total rating error: 1155.608272176908
+Epoch 2000/6000 - training set total rating error: 165.55899073212848
+Epoch 3000/6000 - training set total rating error: 45.96981785733455
+Epoch 4000/6000 - training set total rating error: 37.141866077742954
+Epoch 5000/6000 - training set total rating error: 36.18006357390124
+Epoch 6000/6000 - training set total rating error: 36.054086839604516
+cluster: 2  product: glass alpine
+Epoch 1000/6000 - training set total rating error: 1160.1703443873992
+Epoch 2000/6000 - training set total rating error: 69.16981686608302
+Epoch 3000/6000 - training set total rating error: 34.03817068916462
+Epoch 4000/6000 - training set total rating error: 33.17048862118203
+Epoch 5000/6000 - training set total rating error: 33.139346995816155
+Epoch 6000/6000 - training set total rating error: 33.13789823651425
+cluster: 2  product: good info
+Epoch 1000/6000 - training set total rating error: 262.05198713081364
+Epoch 2000/6000 - training set total rating error: 40.1308627017224
+Epoch 3000/6000 - training set total rating error: 36.901787188684885
+Epoch 4000/6000 - training set total rating error: 36.782973783159264
+Epoch 5000/6000 - training set total rating error: 36.77614386216364
+Epoch 6000/6000 - training set total rating error: 36.7756945315687
+cluster: 2  product: gossip cotton
+Epoch 1000/6000 - training set total rating error: 531.6984370456772
+Epoch 2000/6000 - training set total rating error: 37.28858333696379
+Epoch 3000/6000 - training set total rating error: 32.341958214548384
+Epoch 4000/6000 - training set total rating error: 32.23469200486894
+Epoch 5000/6000 - training set total rating error: 32.23165256662489
+Epoch 6000/6000 - training set total rating error: 32.231550965520164
+cluster: 2  product: hand inca
+Epoch 1000/6000 - training set total rating error: 1395.0938362272602
+Epoch 2000/6000 - training set total rating error: 58.2031482256153
+Epoch 3000/6000 - training set total rating error: 31.62154662396721
+Epoch 4000/6000 - training set total rating error: 30.935353214824715
+Epoch 5000/6000 - training set total rating error: 30.908479386125663
+Epoch 6000/6000 - training set total rating error: 30.907265248084514
+cluster: 2  product: harbor moral
+Epoch 1000/6000 - training set total rating error: 1189.7769343293037
+Epoch 2000/6000 - training set total rating error: 633.0661201523105
+Epoch 3000/6000 - training set total rating error: 240.93009739490657
+Epoch 4000/6000 - training set total rating error: 91.67121397242276
+Epoch 5000/6000 - training set total rating error: 49.734727463440755
+Epoch 6000/6000 - training set total rating error: 37.325891732081864
+cluster: 2  product: helena poncho
+Epoch 1000/6000 - training set total rating error: 1343.93276081799
+Epoch 2000/6000 - training set total rating error: 311.08914072076163
+Epoch 3000/6000 - training set total rating error: 67.39430404358843
+Epoch 4000/6000 - training set total rating error: 38.927621603439796
+Epoch 5000/6000 - training set total rating error: 35.06217122655525
+Epoch 6000/6000 - training set total rating error: 34.35026786655007
+cluster: 2  product: henry distant
+Epoch 1000/6000 - training set total rating error: 1119.2101909770386
+Epoch 2000/6000 - training set total rating error: 707.3868513108458
+Epoch 3000/6000 - training set total rating error: 428.70920538937776
+Epoch 4000/6000 - training set total rating error: 240.10634285519026
+Epoch 5000/6000 - training set total rating error: 122.38095965111735
+Epoch 6000/6000 - training set total rating error: 66.47604479837766
+cluster: 2  product: invent topic
+Epoch 1000/6000 - training set total rating error: 1154.304198799764
+Epoch 2000/6000 - training set total rating error: 598.934771107335
+Epoch 3000/6000 - training set total rating error: 269.0265096663417
+Epoch 4000/6000 - training set total rating error: 107.35008647274208
+Epoch 5000/6000 - training set total rating error: 54.25429795683033
+Epoch 6000/6000 - training set total rating error: 38.653519998838235
+cluster: 2  product: judge sunday
+Epoch 1000/6000 - training set total rating error: 1507.9833515996472
+Epoch 2000/6000 - training set total rating error: 70.5056934475732
+Epoch 3000/6000 - training set total rating error: 37.66472327573511
+Epoch 4000/6000 - training set total rating error: 36.7360608386235
+Epoch 5000/6000 - training set total rating error: 36.69643731555638
+Epoch 6000/6000 - training set total rating error: 36.69443370583145
+cluster: 2  product: july miami
+Epoch 1000/6000 - training set total rating error: 756.5770222088455
+Epoch 2000/6000 - training set total rating error: 85.28659923527259
+Epoch 3000/6000 - training set total rating error: 37.61089964565941
+Epoch 4000/6000 - training set total rating error: 34.20460678555061
+Epoch 5000/6000 - training set total rating error: 33.847232617578904
+Epoch 6000/6000 - training set total rating error: 33.80407676379271
+cluster: 2  product: kermit desert
+Epoch 1000/6000 - training set total rating error: 1493.2652137541859
+Epoch 2000/6000 - training set total rating error: 101.30020808384074
+Epoch 3000/6000 - training set total rating error: 38.0854506024843
+Epoch 4000/6000 - training set total rating error: 35.31941141307312
+Epoch 5000/6000 - training set total rating error: 35.14676541789882
+Epoch 6000/6000 - training set total rating error: 35.13406878022101
+cluster: 2  product: leonid antenna
+Epoch 1000/6000 - training set total rating error: 1377.5084128110907
+Epoch 2000/6000 - training set total rating error: 294.74010927162226
+Epoch 3000/6000 - training set total rating error: 76.6754118443968
+Epoch 4000/6000 - training set total rating error: 50.18542401953495
+Epoch 5000/6000 - training set total rating error: 46.52363184483813
+Epoch 6000/6000 - training set total rating error: 45.98042181631592
+cluster: 2  product: lesson switch
+Epoch 1000/6000 - training set total rating error: 1307.5308209919847
+Epoch 2000/6000 - training set total rating error: 656.5070938590717
+Epoch 3000/6000 - training set total rating error: 232.23581853462798
+Epoch 4000/6000 - training set total rating error: 76.93171417600546
+Epoch 5000/6000 - training set total rating error: 42.574306390932115
+Epoch 6000/6000 - training set total rating error: 35.585899621149125
+cluster: 2  product: lexicon ingrid
+Epoch 1000/6000 - training set total rating error: 710.5411836911867
+Epoch 2000/6000 - training set total rating error: 385.73910514849683
+Epoch 3000/6000 - training set total rating error: 193.51283233152986
+Epoch 4000/6000 - training set total rating error: 107.00176307682453
+Epoch 5000/6000 - training set total rating error: 64.35174724102339
+Epoch 6000/6000 - training set total rating error: 43.506836675790034
+cluster: 2  product: liquid baggage
+Epoch 1000/6000 - training set total rating error: 1815.5252683010265
+Epoch 2000/6000 - training set total rating error: 690.7291515575897
+Epoch 3000/6000 - training set total rating error: 131.9149352073933
+Epoch 4000/6000 - training set total rating error: 45.05596339108374
+Epoch 5000/6000 - training set total rating error: 35.17774378051533
+Epoch 6000/6000 - training set total rating error: 33.60713443641158
+cluster: 2  product: logic channel
+Epoch 1000/6000 - training set total rating error: 1251.9208454225989
+Epoch 2000/6000 - training set total rating error: 122.90759403406607
+Epoch 3000/6000 - training set total rating error: 37.12259976459173
+Epoch 4000/6000 - training set total rating error: 32.78653189146447
+Epoch 5000/6000 - training set total rating error: 32.50259693424789
+Epoch 6000/6000 - training set total rating error: 32.4802513606634
+cluster: 2  product: loyal jungle
+Epoch 1000/6000 - training set total rating error: 1279.3503511567724
+Epoch 2000/6000 - training set total rating error: 200.34515599426837
+Epoch 3000/6000 - training set total rating error: 45.5333264339597
+Epoch 4000/6000 - training set total rating error: 34.66141411733623
+Epoch 5000/6000 - training set total rating error: 33.728458568750185
+Epoch 6000/6000 - training set total rating error: 33.63297213669927
+cluster: 2  product: master nobody
+Epoch 1000/6000 - training set total rating error: 933.9790602410413
+Epoch 2000/6000 - training set total rating error: 437.1759740580936
+Epoch 3000/6000 - training set total rating error: 181.65886511088007
+Epoch 4000/6000 - training set total rating error: 75.70782663635258
+Epoch 5000/6000 - training set total rating error: 44.08734006196379
+Epoch 6000/6000 - training set total rating error: 34.98546427274772
+cluster: 2  product: medusa cuba
+Epoch 1000/6000 - training set total rating error: 1475.5084678875062
+Epoch 2000/6000 - training set total rating error: 56.03704164410871
+Epoch 3000/6000 - training set total rating error: 40.6912989011072
+Epoch 4000/6000 - training set total rating error: 40.37000083590396
+Epoch 5000/6000 - training set total rating error: 40.357951651720825
+Epoch 6000/6000 - training set total rating error: 40.35741012439089
+cluster: 2  product: mercy chaos
+Epoch 1000/6000 - training set total rating error: 508.60172893344446
+Epoch 2000/6000 - training set total rating error: 52.54256997493377
+Epoch 3000/6000 - training set total rating error: 48.96937708211461
+Epoch 4000/6000 - training set total rating error: 48.90786992314891
+Epoch 5000/6000 - training set total rating error: 48.90639327013981
+Epoch 6000/6000 - training set total rating error: 48.906350068344324
+cluster: 2  product: mineral barcode
+Epoch 1000/6000 - training set total rating error: 1280.7725711756023
+Epoch 2000/6000 - training set total rating error: 407.7023705082277
+Epoch 3000/6000 - training set total rating error: 69.7992285467779
+Epoch 4000/6000 - training set total rating error: 37.33058949973335
+Epoch 5000/6000 - training set total rating error: 33.49362080093882
+Epoch 6000/6000 - training set total rating error: 32.83684865583052
+cluster: 2  product: moment seminar
+Epoch 1000/6000 - training set total rating error: 1671.0160334786851
+Epoch 2000/6000 - training set total rating error: 264.0691240695404
+Epoch 3000/6000 - training set total rating error: 48.466050958391484
+Epoch 4000/6000 - training set total rating error: 35.50321258641582
+Epoch 5000/6000 - training set total rating error: 34.47829887248417
+Epoch 6000/6000 - training set total rating error: 34.373345421099366
+cluster: 2  product: motel marvin
+Epoch 1000/6000 - training set total rating error: 1317.5654116684202
+Epoch 2000/6000 - training set total rating error: 97.00991234475418
+Epoch 3000/6000 - training set total rating error: 36.49470243791107
+Epoch 4000/6000 - training set total rating error: 33.63292167415088
+Epoch 5000/6000 - training set total rating error: 33.41267004261178
+Epoch 6000/6000 - training set total rating error: 33.39184242162673
+cluster: 2  product: neptune before
+Epoch 1000/6000 - training set total rating error: 430.7626299872119
+Epoch 2000/6000 - training set total rating error: 45.153392699721664
+Epoch 3000/6000 - training set total rating error: 41.40949732676325
+Epoch 4000/6000 - training set total rating error: 41.33236921075371
+Epoch 5000/6000 - training set total rating error: 41.33015487785496
+Epoch 6000/6000 - training set total rating error: 41.33007803591533
+cluster: 2  product: ninja saga
+Epoch 1000/6000 - training set total rating error: 1266.9338587775276
+Epoch 2000/6000 - training set total rating error: 264.6534125579087
+Epoch 3000/6000 - training set total rating error: 61.25345144127816
+Epoch 4000/6000 - training set total rating error: 38.566801977399365
+Epoch 5000/6000 - training set total rating error: 35.873185703609664
+Epoch 6000/6000 - training set total rating error: 35.51229125495832
+cluster: 2  product: north speed
+Epoch 1000/6000 - training set total rating error: 1028.8378432882444
+Epoch 2000/6000 - training set total rating error: 193.9388985437445
+Epoch 3000/6000 - training set total rating error: 49.962124359293334
+Epoch 4000/6000 - training set total rating error: 36.61804051234449
+Epoch 5000/6000 - training set total rating error: 34.95218535356211
+Epoch 6000/6000 - training set total rating error: 34.69033790483087
+cluster: 2  product: nurse october
+Epoch 1000/6000 - training set total rating error: 1168.5019185895285
+Epoch 2000/6000 - training set total rating error: 209.19949727898722
+Epoch 3000/6000 - training set total rating error: 50.402503217401964
+Epoch 4000/6000 - training set total rating error: 36.877664100689856
+Epoch 5000/6000 - training set total rating error: 35.088785646187006
+Epoch 6000/6000 - training set total rating error: 34.76315519812306
+cluster: 2  product: office triton
+Epoch 1000/6000 - training set total rating error: 1035.624386503595
+Epoch 2000/6000 - training set total rating error: 441.3578382183265
+Epoch 3000/6000 - training set total rating error: 124.63192862714148
+Epoch 4000/6000 - training set total rating error: 52.15484906334319
+Epoch 5000/6000 - training set total rating error: 38.986833250076714
+Epoch 6000/6000 - training set total rating error: 35.914418279493155
+cluster: 2  product: pardon thomas
+Epoch 1000/6000 - training set total rating error: 1575.2379370656759
+Epoch 2000/6000 - training set total rating error: 89.38164345132677
+Epoch 3000/6000 - training set total rating error: 39.07822014164981
+Epoch 4000/6000 - training set total rating error: 37.0096638277262
+Epoch 5000/6000 - training set total rating error: 36.892676569921875
+Epoch 6000/6000 - training set total rating error: 36.88510862373495
+cluster: 2  product: parody athena
+Epoch 1000/6000 - training set total rating error: 833.4620304363165
+Epoch 2000/6000 - training set total rating error: 63.473055727495435
+Epoch 3000/6000 - training set total rating error: 37.30896337743434
+Epoch 4000/6000 - training set total rating error: 35.67100809876698
+Epoch 5000/6000 - training set total rating error: 35.52713336785635
+Epoch 6000/6000 - training set total rating error: 35.51260299901485
+cluster: 2  product: pegasus respond
+Epoch 1000/6000 - training set total rating error: 335.841027035958
+Epoch 2000/6000 - training set total rating error: 40.17926769841189
+Epoch 3000/6000 - training set total rating error: 37.619210515243694
+Epoch 4000/6000 - training set total rating error: 37.54695680769441
+Epoch 5000/6000 - training set total rating error: 37.54444856521947
+Epoch 6000/6000 - training set total rating error: 37.54435545079564
+cluster: 2  product: percent edison
+Epoch 1000/6000 - training set total rating error: 1302.7758425379147
+Epoch 2000/6000 - training set total rating error: 84.34711115274722
+Epoch 3000/6000 - training set total rating error: 44.137951250008065
+Epoch 4000/6000 - training set total rating error: 42.66993204823035
+Epoch 5000/6000 - training set total rating error: 42.585419319343465
+Epoch 6000/6000 - training set total rating error: 42.57964612592405
+cluster: 2  product: plume cowboy
+Epoch 1000/6000 - training set total rating error: 1225.1288235538802
+Epoch 2000/6000 - training set total rating error: 215.12445579111707
+Epoch 3000/6000 - training set total rating error: 63.753067311739066
+Epoch 4000/6000 - training set total rating error: 46.411621584321544
+Epoch 5000/6000 - training set total rating error: 43.95593823993866
+Epoch 6000/6000 - training set total rating error: 43.53042918375661
+cluster: 2  product: provide flex
+Epoch 1000/6000 - training set total rating error: 1148.4505533553483
+Epoch 2000/6000 - training set total rating error: 191.4771773711901
+Epoch 3000/6000 - training set total rating error: 74.5733078945688
+Epoch 4000/6000 - training set total rating error: 63.2491016981348
+Epoch 5000/6000 - training set total rating error: 61.69039277617935
+Epoch 6000/6000 - training set total rating error: 61.42014203508634
+cluster: 2  product: reverse royal
+Epoch 1000/6000 - training set total rating error: 1344.5846563518098
+Epoch 2000/6000 - training set total rating error: 751.0094786693508
+Epoch 3000/6000 - training set total rating error: 274.9697376335415
+Epoch 4000/6000 - training set total rating error: 76.38687517026868
+Epoch 5000/6000 - training set total rating error: 41.13840307668775
+Epoch 6000/6000 - training set total rating error: 34.89304153156385
+cluster: 2  product: rider shine
+Epoch 1000/6000 - training set total rating error: 483.42658073117445
+Epoch 2000/6000 - training set total rating error: 42.18887628819025
+Epoch 3000/6000 - training set total rating error: 36.698588256979534
+Epoch 4000/6000 - training set total rating error: 36.54732846243191
+Epoch 5000/6000 - training set total rating error: 36.541573914021505
+Epoch 6000/6000 - training set total rating error: 36.54131757694834
+cluster: 2  product: sabine emotion
+Epoch 1000/6000 - training set total rating error: 1449.3354910241155
+Epoch 2000/6000 - training set total rating error: 83.01946021651614
+Epoch 3000/6000 - training set total rating error: 35.91734032151371
+Epoch 4000/6000 - training set total rating error: 34.11339699183213
+Epoch 5000/6000 - training set total rating error: 34.00505844766823
+Epoch 6000/6000 - training set total rating error: 33.99738248341473
+cluster: 2  product: saint texas
+Epoch 1000/6000 - training set total rating error: 1791.0611770595028
+Epoch 2000/6000 - training set total rating error: 590.9875064788021
+Epoch 3000/6000 - training set total rating error: 99.36385389813621
+Epoch 4000/6000 - training set total rating error: 43.80679721696352
+Epoch 5000/6000 - training set total rating error: 36.42462135326035
+Epoch 6000/6000 - training set total rating error: 34.983333534435936
+cluster: 2  product: salon pulse
+Epoch 1000/6000 - training set total rating error: 1177.7129271620959
+Epoch 2000/6000 - training set total rating error: 44.90924482662323
+Epoch 3000/6000 - training set total rating error: 33.80921810594628
+Epoch 4000/6000 - training set total rating error: 33.63639701826442
+Epoch 5000/6000 - training set total rating error: 33.632058788500416
+Epoch 6000/6000 - training set total rating error: 33.63191758172515
+cluster: 2  product: scale phone
+Epoch 1000/6000 - training set total rating error: 1210.9939784893882
+Epoch 2000/6000 - training set total rating error: 63.4001398910512
+Epoch 3000/6000 - training set total rating error: 39.30886848014258
+Epoch 4000/6000 - training set total rating error: 38.57320859592049
+Epoch 5000/6000 - training set total rating error: 38.540583528777105
+Epoch 6000/6000 - training set total rating error: 38.53888501435798
+cluster: 2  product: season arthur
+Epoch 1000/6000 - training set total rating error: 1962.8145301646432
+Epoch 2000/6000 - training set total rating error: 1310.6090038436341
+Epoch 3000/6000 - training set total rating error: 537.6406883250048
+Epoch 4000/6000 - training set total rating error: 105.93042331306462
+Epoch 5000/6000 - training set total rating error: 50.79446529864749
+Epoch 6000/6000 - training set total rating error: 44.11114563215422
+cluster: 2  product: segment meter
+Epoch 1000/6000 - training set total rating error: 1639.4350343300587
+Epoch 2000/6000 - training set total rating error: 255.03149613556369
+Epoch 3000/6000 - training set total rating error: 58.95983973726073
+Epoch 4000/6000 - training set total rating error: 43.202890603997474
+Epoch 5000/6000 - training set total rating error: 41.45071224523681
+Epoch 6000/6000 - training set total rating error: 41.20065128731661
+cluster: 2  product: senator ozone
+Epoch 1000/6000 - training set total rating error: 2133.3512406814625
+Epoch 2000/6000 - training set total rating error: 846.8501241723366
+Epoch 3000/6000 - training set total rating error: 151.373800120186
+Epoch 4000/6000 - training set total rating error: 45.527081643315064
+Epoch 5000/6000 - training set total rating error: 35.554310422947154
+Epoch 6000/6000 - training set total rating error: 34.4398102660697
+cluster: 2  product: serial organic
+Epoch 1000/6000 - training set total rating error: 1464.981061780769
+Epoch 2000/6000 - training set total rating error: 104.49171280456173
+Epoch 3000/6000 - training set total rating error: 39.857352725285274
+Epoch 4000/6000 - training set total rating error: 37.17421252003775
+Epoch 5000/6000 - training set total rating error: 37.00039753818528
+Epoch 6000/6000 - training set total rating error: 36.987065092356396
+cluster: 2  product: shannon resume
+Epoch 1000/6000 - training set total rating error: 1404.094807155667
+Epoch 2000/6000 - training set total rating error: 316.37703576902186
+Epoch 3000/6000 - training set total rating error: 66.17213898577866
+Epoch 4000/6000 - training set total rating error: 38.916688263736454
+Epoch 5000/6000 - training set total rating error: 35.546970916076134
+Epoch 6000/6000 - training set total rating error: 35.07701942257529
+cluster: 2  product: sheriff java
+Epoch 1000/6000 - training set total rating error: 337.62965331634535
+Epoch 2000/6000 - training set total rating error: 36.0663418407829
+Epoch 3000/6000 - training set total rating error: 32.58115178212052
+Epoch 4000/6000 - training set total rating error: 32.47848885427996
+Epoch 5000/6000 - training set total rating error: 32.47482982668526
+Epoch 6000/6000 - training set total rating error: 32.474690751314384
+cluster: 2  product: silk gizmo
+Epoch 1000/6000 - training set total rating error: 502.1303692369367
+Epoch 2000/6000 - training set total rating error: 62.51551984113529
+Epoch 3000/6000 - training set total rating error: 54.11554744440472
+Epoch 4000/6000 - training set total rating error: 53.88252251544749
+Epoch 5000/6000 - training set total rating error: 53.87467177260329
+Epoch 6000/6000 - training set total rating error: 53.87438263494313
+cluster: 2  product: silver plate
+Epoch 1000/6000 - training set total rating error: 1235.035440916112
+Epoch 2000/6000 - training set total rating error: 83.75350018488585
+Epoch 3000/6000 - training set total rating error: 62.781118375199284
+Epoch 4000/6000 - training set total rating error: 62.32263621971762
+Epoch 5000/6000 - training set total rating error: 62.3087598871022
+Epoch 6000/6000 - training set total rating error: 62.30829084240209
+cluster: 2  product: similar malta
+Epoch 1000/6000 - training set total rating error: 996.351977534834
+Epoch 2000/6000 - training set total rating error: 55.17379119611503
+Epoch 3000/6000 - training set total rating error: 36.40211515024443
+Epoch 4000/6000 - training set total rating error: 35.753791514531855
+Epoch 5000/6000 - training set total rating error: 35.7204662268578
+Epoch 6000/6000 - training set total rating error: 35.718412135651015
+cluster: 2  product: siren junior
+Epoch 1000/6000 - training set total rating error: 2141.0907028872293
+Epoch 2000/6000 - training set total rating error: 265.0151416903776
+Epoch 3000/6000 - training set total rating error: 67.44431467978443
+Epoch 4000/6000 - training set total rating error: 57.615419665599724
+Epoch 5000/6000 - training set total rating error: 56.92126542281749
+Epoch 6000/6000 - training set total rating error: 56.8602747543415
+cluster: 2  product: solid express
+Epoch 1000/6000 - training set total rating error: 1202.4297326470796
+Epoch 2000/6000 - training set total rating error: 629.5595719144201
+Epoch 3000/6000 - training set total rating error: 303.4651792949783
+Epoch 4000/6000 - training set total rating error: 129.64053879786607
+Epoch 5000/6000 - training set total rating error: 59.834223338642936
+Epoch 6000/6000 - training set total rating error: 39.57947029178784
+cluster: 2  product: spray karma
+Epoch 1000/6000 - training set total rating error: 1050.723232442352
+Epoch 2000/6000 - training set total rating error: 264.88336585620397
+Epoch 3000/6000 - training set total rating error: 69.42827728462703
+Epoch 4000/6000 - training set total rating error: 41.64838935882646
+Epoch 5000/6000 - training set total rating error: 37.64687214921102
+Epoch 6000/6000 - training set total rating error: 36.962425192693416
+cluster: 2  product: stella micro
+Epoch 1000/6000 - training set total rating error: 372.51693338202085
+Epoch 2000/6000 - training set total rating error: 38.458480565925825
+Epoch 3000/6000 - training set total rating error: 34.80435409814312
+Epoch 4000/6000 - training set total rating error: 34.72259908231593
+Epoch 5000/6000 - training set total rating error: 34.72029329409526
+Epoch 6000/6000 - training set total rating error: 34.72022216599459
+cluster: 2  product: stop door
+Epoch 1000/6000 - training set total rating error: 893.146450579514
+Epoch 2000/6000 - training set total rating error: 192.30513487437003
+Epoch 3000/6000 - training set total rating error: 55.03090460976584
+Epoch 4000/6000 - training set total rating error: 39.14957746901487
+Epoch 5000/6000 - training set total rating error: 36.775479369221756
+Epoch 6000/6000 - training set total rating error: 36.32867651040286
+cluster: 2  product: sushi import
+Epoch 1000/6000 - training set total rating error: 872.8905454195188
+Epoch 2000/6000 - training set total rating error: 61.98818081044503
+Epoch 3000/6000 - training set total rating error: 32.275218295858146
+Epoch 4000/6000 - training set total rating error: 30.80035675588401
+Epoch 5000/6000 - training set total rating error: 30.689363519350817
+Epoch 6000/6000 - training set total rating error: 30.679252168597145
+cluster: 2  product: tarzan juliet
+Epoch 1000/6000 - training set total rating error: 915.5316247460927
+Epoch 2000/6000 - training set total rating error: 587.9104436991813
+Epoch 3000/6000 - training set total rating error: 390.1843110191978
+Epoch 4000/6000 - training set total rating error: 224.3960340002465
+Epoch 5000/6000 - training set total rating error: 117.58889474160704
+Epoch 6000/6000 - training set total rating error: 68.20568945321737
+cluster: 2  product: telecom pluto
+Epoch 1000/6000 - training set total rating error: 608.0108163824568
+Epoch 2000/6000 - training set total rating error: 41.30204818414117
+Epoch 3000/6000 - training set total rating error: 37.62766639762549
+Epoch 4000/6000 - training set total rating error: 37.55765270237258
+Epoch 5000/6000 - training set total rating error: 37.55584601599004
+Epoch 6000/6000 - training set total rating error: 37.55579319037914
+cluster: 2  product: textile strange
+Epoch 1000/6000 - training set total rating error: 1809.220630463596
+Epoch 2000/6000 - training set total rating error: 364.78353616952467
+Epoch 3000/6000 - training set total rating error: 52.02813572120083
+Epoch 4000/6000 - training set total rating error: 32.633662260213434
+Epoch 5000/6000 - training set total rating error: 31.283434770446505
+Epoch 6000/6000 - training set total rating error: 31.171495196805957
+cluster: 2  product: theory france
+Epoch 1000/6000 - training set total rating error: 625.5905897243778
+Epoch 2000/6000 - training set total rating error: 66.11130147515156
+Epoch 3000/6000 - training set total rating error: 57.975511958459506
+Epoch 4000/6000 - training set total rating error: 57.7336269891973
+Epoch 5000/6000 - training set total rating error: 57.72204137876024
+Epoch 6000/6000 - training set total rating error: 57.72134801633569
+cluster: 2  product: torso cricket
+Epoch 1000/6000 - training set total rating error: 1098.6533900621175
+Epoch 2000/6000 - training set total rating error: 192.13612622595525
+Epoch 3000/6000 - training set total rating error: 44.66911353055863
+Epoch 4000/6000 - training set total rating error: 32.33496767442655
+Epoch 5000/6000 - training set total rating error: 30.720677296751628
+Epoch 6000/6000 - training set total rating error: 30.42362421916529
+cluster: 2  product: tower fantasy
+Epoch 1000/6000 - training set total rating error: 803.9556572642902
+Epoch 2000/6000 - training set total rating error: 123.77904112291326
+Epoch 3000/6000 - training set total rating error: 45.830516222419895
+Epoch 4000/6000 - training set total rating error: 34.06703575666443
+Epoch 5000/6000 - training set total rating error: 31.284068408150024
+Epoch 6000/6000 - training set total rating error: 30.54316968727155
+cluster: 2  product: trivial neon
+Epoch 1000/6000 - training set total rating error: 1313.9484213165244
+Epoch 2000/6000 - training set total rating error: 847.3561226330221
+Epoch 3000/6000 - training set total rating error: 375.65072994186954
+Epoch 4000/6000 - training set total rating error: 127.59236102029632
+Epoch 5000/6000 - training set total rating error: 58.530649155665266
+Epoch 6000/6000 - training set total rating error: 40.41530430020225
+cluster: 2  product: tuna relax
+Epoch 1000/6000 - training set total rating error: 1226.7006443029322
+Epoch 2000/6000 - training set total rating error: 377.3880262840977
+Epoch 3000/6000 - training set total rating error: 89.16756668655147
+Epoch 4000/6000 - training set total rating error: 43.15126947739347
+Epoch 5000/6000 - training set total rating error: 35.95395079644272
+Epoch 6000/6000 - training set total rating error: 34.7253022134754
+cluster: 2  product: tunnel nerve
+Epoch 1000/6000 - training set total rating error: 572.4102497239977
+Epoch 2000/6000 - training set total rating error: 50.90769319186148
+Epoch 3000/6000 - training set total rating error: 45.095658272130485
+Epoch 4000/6000 - training set total rating error: 44.96385752447832
+Epoch 5000/6000 - training set total rating error: 44.95960034333804
+Epoch 6000/6000 - training set total rating error: 44.95943917249022
+cluster: 2  product: turtle pierre
+Epoch 1000/6000 - training set total rating error: 1066.9143425976367
+Epoch 2000/6000 - training set total rating error: 346.6001825779636
+Epoch 3000/6000 - training set total rating error: 101.97597673395181
+Epoch 4000/6000 - training set total rating error: 49.287386874258765
+Epoch 5000/6000 - training set total rating error: 38.01354653740413
+Epoch 6000/6000 - training set total rating error: 35.392313820245995
+cluster: 2  product: update vibrate
+Epoch 1000/6000 - training set total rating error: 1124.2174310771095
+Epoch 2000/6000 - training set total rating error: 406.3505924412057
+Epoch 3000/6000 - training set total rating error: 98.09233886024067
+Epoch 4000/6000 - training set total rating error: 46.20564402023486
+Epoch 5000/6000 - training set total rating error: 37.007356787823426
+Epoch 6000/6000 - training set total rating error: 35.125108080721766
+cluster: 2  product: vampire teacher
+Epoch 1000/6000 - training set total rating error: 1746.4418149700464
+Epoch 2000/6000 - training set total rating error: 206.48287385141265
+Epoch 3000/6000 - training set total rating error: 52.183984251578025
+Epoch 4000/6000 - training set total rating error: 47.31628459360934
+Epoch 5000/6000 - training set total rating error: 47.05725281508257
+Epoch 6000/6000 - training set total rating error: 47.03669541422816
+cluster: 2  product: ventura next
+Epoch 1000/6000 - training set total rating error: 783.8494717427157
+Epoch 2000/6000 - training set total rating error: 44.654608637397416
+Epoch 3000/6000 - training set total rating error: 35.29710983422693
+Epoch 4000/6000 - training set total rating error: 35.116415398791695
+Epoch 5000/6000 - training set total rating error: 35.112091113522425
+Epoch 6000/6000 - training set total rating error: 35.11197107965213
+cluster: 2  product: vodka bahama
+Epoch 1000/6000 - training set total rating error: 1314.6809457679533
+Epoch 2000/6000 - training set total rating error: 464.6366350165353
+Epoch 3000/6000 - training set total rating error: 89.06654390188515
+Epoch 4000/6000 - training set total rating error: 42.346630684036526
+Epoch 5000/6000 - training set total rating error: 36.70248263619295
+Epoch 6000/6000 - training set total rating error: 35.81439174390577
+cluster: 2  product: volume pasta
+Epoch 1000/6000 - training set total rating error: 1121.596163596197
+Epoch 2000/6000 - training set total rating error: 491.71550813571105
+Epoch 3000/6000 - training set total rating error: 140.2819630976835
+Epoch 4000/6000 - training set total rating error: 58.899920932145235
+Epoch 5000/6000 - training set total rating error: 44.91347807981844
+Epoch 6000/6000 - training set total rating error: 42.43379578613345
+cluster: 2  product: zero nikita
+Epoch 1000/6000 - training set total rating error: 1474.417879307048
+Epoch 2000/6000 - training set total rating error: 140.7948574549601
+Epoch 3000/6000 - training set total rating error: 39.96896032554267
+Epoch 4000/6000 - training set total rating error: 35.83536166220194
+Epoch 5000/6000 - training set total rating error: 35.574185721747746
+Epoch 6000/6000 - training set total rating error: 35.5539493894459
+cluster: 1  product: alaska basil
+Epoch 1000/6000 - training set total rating error: 5253.861193705912
+Epoch 2000/6000 - training set total rating error: 4695.285095148086
+Epoch 3000/6000 - training set total rating error: 4682.879980467266
+Epoch 4000/6000 - training set total rating error: 4682.196598609974
+Epoch 5000/6000 - training set total rating error: 4682.141186166351
+Epoch 6000/6000 - training set total rating error: 4682.13618634528
+cluster: 1  product: alcohol future
+Epoch 1000/6000 - training set total rating error: 5105.345629372636
+Epoch 2000/6000 - training set total rating error: 4691.563010405333
+Epoch 3000/6000 - training set total rating error: 4681.968474887008
+Epoch 4000/6000 - training set total rating error: 4681.306021809539
+Epoch 5000/6000 - training set total rating error: 4681.246697679796
+Epoch 6000/6000 - training set total rating error: 4681.241070612574
+cluster: 1  product: alice ticket
+Epoch 1000/6000 - training set total rating error: 5910.50346173839
+Epoch 2000/6000 - training set total rating error: 5546.250483835769
+Epoch 3000/6000 - training set total rating error: 5539.45043064738
+Epoch 4000/6000 - training set total rating error: 5539.138667041723
+Epoch 5000/6000 - training set total rating error: 5539.118330050285
+Epoch 6000/6000 - training set total rating error: 5539.116801242329
+cluster: 1  product: alien potato
+Epoch 1000/6000 - training set total rating error: 2553.464773393698
+Epoch 2000/6000 - training set total rating error: 2089.513611593131
+Epoch 3000/6000 - training set total rating error: 2086.9933382305103
+Epoch 4000/6000 - training set total rating error: 2086.9540222359697
+Epoch 5000/6000 - training set total rating error: 2086.9531719634815
+Epoch 6000/6000 - training set total rating error: 2086.953151242958
+cluster: 1  product: asia jacket
+Epoch 1000/6000 - training set total rating error: 5449.190991345346
+Epoch 2000/6000 - training set total rating error: 4366.917488616212
+Epoch 3000/6000 - training set total rating error: 4340.860715323966
+Epoch 4000/6000 - training set total rating error: 4340.1202469345735
+Epoch 5000/6000 - training set total rating error: 4340.08529843143
+Epoch 6000/6000 - training set total rating error: 4340.083337819293
+cluster: 1  product: aztec iris
+Epoch 1000/6000 - training set total rating error: 1258.5281805969737
+Epoch 2000/6000 - training set total rating error: 637.4976334310002
+Epoch 3000/6000 - training set total rating error: 634.32144960846
+Epoch 4000/6000 - training set total rating error: 634.2876985391364
+Epoch 5000/6000 - training set total rating error: 634.287249546931
+Epoch 6000/6000 - training set total rating error: 634.2872426585888
+cluster: 1  product: balance hostel
+Epoch 1000/6000 - training set total rating error: 1792.9718438834284
+Epoch 2000/6000 - training set total rating error: 1276.6572504529784
+Epoch 3000/6000 - training set total rating error: 1270.4412893460533
+Epoch 4000/6000 - training set total rating error: 1270.3311933619404
+Epoch 5000/6000 - training set total rating error: 1270.3288312864654
+Epoch 6000/6000 - training set total rating error: 1270.3287755942556
+cluster: 1  product: betty today
+Epoch 1000/6000 - training set total rating error: 2466.6549537064075
+Epoch 2000/6000 - training set total rating error: 2308.1591041655474
+Epoch 3000/6000 - training set total rating error: 2306.943928208176
+Epoch 4000/6000 - training set total rating error: 2306.9183335177213
+Epoch 5000/6000 - training set total rating error: 2306.9176380314943
+Epoch 6000/6000 - training set total rating error: 2306.917616847781
+cluster: 1  product: boston house
+Epoch 1000/6000 - training set total rating error: 2485.095279065852
+Epoch 2000/6000 - training set total rating error: 2382.8261823134317
+Epoch 3000/6000 - training set total rating error: 2381.946879293497
+Epoch 4000/6000 - training set total rating error: 2381.9274443633067
+Epoch 5000/6000 - training set total rating error: 2381.9267703892533
+Epoch 6000/6000 - training set total rating error: 2381.9267420286433
+cluster: 1  product: bronze sweden
+Epoch 1000/6000 - training set total rating error: 4055.6082796276005
+Epoch 2000/6000 - training set total rating error: 3530.208079221524
+Epoch 3000/6000 - training set total rating error: 3524.9584634888583
+Epoch 4000/6000 - training set total rating error: 3524.8453160565873
+Epoch 5000/6000 - training set total rating error: 3524.8421307860785
+Epoch 6000/6000 - training set total rating error: 3524.842030810597
+cluster: 1  product: bundle forget
+Epoch 1000/6000 - training set total rating error: 2221.10023498362
+Epoch 2000/6000 - training set total rating error: 1440.9880588534268
+Epoch 3000/6000 - training set total rating error: 1434.196281559513
+Epoch 4000/6000 - training set total rating error: 1434.063381270431
+Epoch 5000/6000 - training set total rating error: 1434.0600078418931
+Epoch 6000/6000 - training set total rating error: 1434.059908179384
+cluster: 1  product: cairo monarch
+Epoch 1000/6000 - training set total rating error: 3430.672841133084
+Epoch 2000/6000 - training set total rating error: 2930.39441893487
+Epoch 3000/6000 - training set total rating error: 2923.509152448869
+Epoch 4000/6000 - training set total rating error: 2923.3540899705117
+Epoch 5000/6000 - training set total rating error: 2923.3494765494397
+Epoch 6000/6000 - training set total rating error: 2923.3493194152156
+cluster: 1  product: choice copy
+Epoch 1000/6000 - training set total rating error: 2559.8478851019495
+Epoch 2000/6000 - training set total rating error: 2473.6231520589404
+Epoch 3000/6000 - training set total rating error: 2472.4672869647866
+Epoch 4000/6000 - training set total rating error: 2472.4360820960364
+Epoch 5000/6000 - training set total rating error: 2472.435105935903
+Epoch 6000/6000 - training set total rating error: 2472.435074049743
+cluster: 1  product: cinema complex
+Epoch 1000/6000 - training set total rating error: 3437.831043626441
+Epoch 2000/6000 - training set total rating error: 2763.2285493358504
+Epoch 3000/6000 - training set total rating error: 2752.106168017136
+Epoch 4000/6000 - training set total rating error: 2751.862562729519
+Epoch 5000/6000 - training set total rating error: 2751.8551884202907
+Epoch 6000/6000 - training set total rating error: 2751.8549285868626
+cluster: 1  product: cipher empty
+Epoch 1000/6000 - training set total rating error: 4070.646876862094
+Epoch 2000/6000 - training set total rating error: 3480.8589463198537
+Epoch 3000/6000 - training set total rating error: 3472.555773230735
+Epoch 4000/6000 - training set total rating error: 3472.299173915821
+Epoch 5000/6000 - training set total rating error: 3472.287392457327
+Epoch 6000/6000 - training set total rating error: 3472.286732652427
+cluster: 1  product: cockpit circle
+Epoch 1000/6000 - training set total rating error: 3488.0021587899028
+Epoch 2000/6000 - training set total rating error: 3082.6417529427004
+Epoch 3000/6000 - training set total rating error: 3077.38719152295
+Epoch 4000/6000 - training set total rating error: 3077.1967044979924
+Epoch 5000/6000 - training set total rating error: 3077.188091862529
+Epoch 6000/6000 - training set total rating error: 3077.1876742338595
+cluster: 1  product: comedy clean
+Epoch 1000/6000 - training set total rating error: 843.5470423291296
+Epoch 2000/6000 - training set total rating error: 381.52061543629674
+Epoch 3000/6000 - training set total rating error: 378.5191549635083
+Epoch 4000/6000 - training set total rating error: 378.46965020006866
+Epoch 5000/6000 - training set total rating error: 378.4686431625646
+Epoch 6000/6000 - training set total rating error: 378.46862127513276
+cluster: 1  product: daniel global
+Epoch 1000/6000 - training set total rating error: 3801.3719657958295
+Epoch 2000/6000 - training set total rating error: 2830.2632259960233
+Epoch 3000/6000 - training set total rating error: 2810.2860999510913
+Epoch 4000/6000 - training set total rating error: 2809.4172849704555
+Epoch 5000/6000 - training set total rating error: 2809.3694037650107
+Epoch 6000/6000 - training set total rating error: 2809.3663937136716
+cluster: 1  product: degree forever
+Epoch 1000/6000 - training set total rating error: 1803.5767824756344
+Epoch 2000/6000 - training set total rating error: 1589.0058244798754
+Epoch 3000/6000 - training set total rating error: 1587.1870856282476
+Epoch 4000/6000 - training set total rating error: 1587.1497735978537
+Epoch 5000/6000 - training set total rating error: 1587.1485679065515
+Epoch 6000/6000 - training set total rating error: 1587.148521874562
+cluster: 1  product: diana chariot
+Epoch 1000/6000 - training set total rating error: 4598.203393629739
+Epoch 2000/6000 - training set total rating error: 3783.802092867941
+Epoch 3000/6000 - training set total rating error: 3776.542778215011
+Epoch 4000/6000 - training set total rating error: 3776.4195590073537
+Epoch 5000/6000 - training set total rating error: 3776.416257236007
+Epoch 6000/6000 - training set total rating error: 3776.416140291822
+cluster: 1  product: diesel jason
+Epoch 1000/6000 - training set total rating error: 4530.652069103575
+Epoch 2000/6000 - training set total rating error: 4268.1176903816795
+Epoch 3000/6000 - training set total rating error: 4264.918007101754
+Epoch 4000/6000 - training set total rating error: 4264.80699558027
+Epoch 5000/6000 - training set total rating error: 4264.801844251359
+Epoch 6000/6000 - training set total rating error: 4264.801585998344
+cluster: 1  product: diploma vocal
+Epoch 1000/6000 - training set total rating error: 3326.4238082078045
+Epoch 2000/6000 - training set total rating error: 3058.678383989446
+Epoch 3000/6000 - training set total rating error: 3055.9392845686198
+Epoch 4000/6000 - training set total rating error: 3055.892083109985
+Epoch 5000/6000 - training set total rating error: 3055.8908799613246
+Epoch 6000/6000 - training set total rating error: 3055.890840832674
+cluster: 1  product: epoxy insect
+Epoch 1000/6000 - training set total rating error: 2644.542561031728
+Epoch 2000/6000 - training set total rating error: 2284.761683587971
+Epoch 3000/6000 - training set total rating error: 2280.6990474393724
+Epoch 4000/6000 - training set total rating error: 2280.596576399136
+Epoch 5000/6000 - training set total rating error: 2280.592886779617
+Epoch 6000/6000 - training set total rating error: 2280.5927290800614
+cluster: 1  product: explain heaven
+Epoch 1000/6000 - training set total rating error: 5864.463195446986
+Epoch 2000/6000 - training set total rating error: 5389.822352854052
+Epoch 3000/6000 - training set total rating error: 5382.283969318253
+Epoch 4000/6000 - training set total rating error: 5382.006417386976
+Epoch 5000/6000 - training set total rating error: 5381.994155669348
+Epoch 6000/6000 - training set total rating error: 5381.993580211404
+cluster: 1  product: flame street
+Epoch 1000/6000 - training set total rating error: 2420.856394651919
+Epoch 2000/6000 - training set total rating error: 1310.2411874176391
+Epoch 3000/6000 - training set total rating error: 1301.8229687872579
+Epoch 4000/6000 - training set total rating error: 1301.678593955883
+Epoch 5000/6000 - training set total rating error: 1301.6755731460871
+Epoch 6000/6000 - training set total rating error: 1301.6755014838816
+cluster: 1  product: fractal heart
+Epoch 1000/6000 - training set total rating error: 4626.6073734747415
+Epoch 2000/6000 - training set total rating error: 4290.847347607224
+Epoch 3000/6000 - training set total rating error: 4281.925533368203
+Epoch 4000/6000 - training set total rating error: 4281.5754612138035
+Epoch 5000/6000 - training set total rating error: 4281.5579586715285
+Epoch 6000/6000 - training set total rating error: 4281.556939230407
+cluster: 1  product: fresh shave
+Epoch 1000/6000 - training set total rating error: 4097.924794202826
+Epoch 2000/6000 - training set total rating error: 3786.0862976556105
+Epoch 3000/6000 - training set total rating error: 3782.6930727219706
+Epoch 4000/6000 - training set total rating error: 3782.5805194015156
+Epoch 5000/6000 - training set total rating error: 3782.574375584752
+Epoch 6000/6000 - training set total rating error: 3782.5739403333987
+cluster: 1  product: frozen command
+Epoch 1000/6000 - training set total rating error: 4698.194870263486
+Epoch 2000/6000 - training set total rating error: 4229.476752812742
+Epoch 3000/6000 - training set total rating error: 4217.459176461734
+Epoch 4000/6000 - training set total rating error: 4217.013705964052
+Epoch 5000/6000 - training set total rating error: 4216.9905476241975
+Epoch 6000/6000 - training set total rating error: 4216.989063911012
+cluster: 1  product: gelatin prime
+Epoch 1000/6000 - training set total rating error: 3192.092657681575
+Epoch 2000/6000 - training set total rating error: 2918.381608361657
+Epoch 3000/6000 - training set total rating error: 2915.5458935895076
+Epoch 4000/6000 - training set total rating error: 2915.470528812148
+Epoch 5000/6000 - training set total rating error: 2915.467606265581
+Epoch 6000/6000 - training set total rating error: 2915.4674720278094
+cluster: 1  product: glass alpine
+Epoch 1000/6000 - training set total rating error: 4026.9784395468455
+Epoch 2000/6000 - training set total rating error: 3340.1009579059737
+Epoch 3000/6000 - training set total rating error: 3316.8640071709137
+Epoch 4000/6000 - training set total rating error: 3316.262193591284
+Epoch 5000/6000 - training set total rating error: 3316.2432629450664
+Epoch 6000/6000 - training set total rating error: 3316.242507218736
+cluster: 1  product: good info
+Epoch 1000/6000 - training set total rating error: 3712.2511744861426
+Epoch 2000/6000 - training set total rating error: 3174.5136885281363
+Epoch 3000/6000 - training set total rating error: 3168.0901230311874
+Epoch 4000/6000 - training set total rating error: 3167.9388531619907
+Epoch 5000/6000 - training set total rating error: 3167.9334451057202
+Epoch 6000/6000 - training set total rating error: 3167.9332087334724
+cluster: 1  product: gossip cotton
+Epoch 1000/6000 - training set total rating error: 2566.9975321760776
+Epoch 2000/6000 - training set total rating error: 1888.3670041457924
+Epoch 3000/6000 - training set total rating error: 1877.6831060452555
+Epoch 4000/6000 - training set total rating error: 1877.4697057166416
+Epoch 5000/6000 - training set total rating error: 1877.4638449597956
+Epoch 6000/6000 - training set total rating error: 1877.4636425722776
+cluster: 1  product: hand inca
+Epoch 1000/6000 - training set total rating error: 548.7937010388387
+Epoch 2000/6000 - training set total rating error: 428.1692524740693
+Epoch 3000/6000 - training set total rating error: 427.0177434100867
+Epoch 4000/6000 - training set total rating error: 426.9971874131729
+Epoch 5000/6000 - training set total rating error: 426.9966499569016
+Epoch 6000/6000 - training set total rating error: 426.9966324509469
+cluster: 1  product: harbor moral
+Epoch 1000/6000 - training set total rating error: 5768.73976578747
+Epoch 2000/6000 - training set total rating error: 5115.160546411666
+Epoch 3000/6000 - training set total rating error: 5096.676180692934
+Epoch 4000/6000 - training set total rating error: 5096.063609604101
+Epoch 5000/6000 - training set total rating error: 5096.034725836678
+Epoch 6000/6000 - training set total rating error: 5096.033016009658
+cluster: 1  product: helena poncho
+Epoch 1000/6000 - training set total rating error: 4243.625073839554
+Epoch 2000/6000 - training set total rating error: 3755.0370647787704
+Epoch 3000/6000 - training set total rating error: 3749.7648163463837
+Epoch 4000/6000 - training set total rating error: 3749.5641146688286
+Epoch 5000/6000 - training set total rating error: 3749.55195950224
+Epoch 6000/6000 - training set total rating error: 3749.551086187159
+cluster: 1  product: henry distant
+Epoch 1000/6000 - training set total rating error: 5439.324951427584
+Epoch 2000/6000 - training set total rating error: 4685.687210987872
+Epoch 3000/6000 - training set total rating error: 4666.108594416757
+Epoch 4000/6000 - training set total rating error: 4665.507673685252
+Epoch 5000/6000 - training set total rating error: 4665.48258100252
+Epoch 6000/6000 - training set total rating error: 4665.481296324564
+cluster: 1  product: invent topic
+Epoch 1000/6000 - training set total rating error: 6397.9614966397185
+Epoch 2000/6000 - training set total rating error: 5220.50197083113
+Epoch 3000/6000 - training set total rating error: 5200.941915860948
+Epoch 4000/6000 - training set total rating error: 5200.5425870915715
+Epoch 5000/6000 - training set total rating error: 5200.527817767922
+Epoch 6000/6000 - training set total rating error: 5200.52708624176
+cluster: 1  product: judge sunday
+Epoch 1000/6000 - training set total rating error: 3084.3784586518427
+Epoch 2000/6000 - training set total rating error: 2617.98847914138
+Epoch 3000/6000 - training set total rating error: 2608.4887386639093
+Epoch 4000/6000 - training set total rating error: 2608.210151308349
+Epoch 5000/6000 - training set total rating error: 2608.1998229028313
+Epoch 6000/6000 - training set total rating error: 2608.1993658657743
+cluster: 1  product: july miami
+Epoch 1000/6000 - training set total rating error: 7746.345649928695
+Epoch 2000/6000 - training set total rating error: 6725.256007211278
+Epoch 3000/6000 - training set total rating error: 6694.8532019319655
+Epoch 4000/6000 - training set total rating error: 6692.814703436066
+Epoch 5000/6000 - training set total rating error: 6692.587487147174
+Epoch 6000/6000 - training set total rating error: 6692.557673776688
+cluster: 1  product: kermit desert
+Epoch 1000/6000 - training set total rating error: 1355.5576028697694
+Epoch 2000/6000 - training set total rating error: 1006.885720605531
+Epoch 3000/6000 - training set total rating error: 1003.1602433792455
+Epoch 4000/6000 - training set total rating error: 1003.0296253576456
+Epoch 5000/6000 - training set total rating error: 1003.0236594594214
+Epoch 6000/6000 - training set total rating error: 1003.0233755957471
+cluster: 1  product: leonid antenna
+Epoch 1000/6000 - training set total rating error: 1714.3651105835406
+Epoch 2000/6000 - training set total rating error: 1379.9427553483329
+Epoch 3000/6000 - training set total rating error: 1376.082791864886
+Epoch 4000/6000 - training set total rating error: 1375.9648273719192
+Epoch 5000/6000 - training set total rating error: 1375.960280521
+Epoch 6000/6000 - training set total rating error: 1375.9600911850505
+cluster: 1  product: lesson switch
+Epoch 1000/6000 - training set total rating error: 2139.772135982942
+Epoch 2000/6000 - training set total rating error: 789.7303013534754
+Epoch 3000/6000 - training set total rating error: 777.7181381643202
+Epoch 4000/6000 - training set total rating error: 777.5547480577727
+Epoch 5000/6000 - training set total rating error: 777.55127483263
+Epoch 6000/6000 - training set total rating error: 777.5511900605228
+cluster: 1  product: lexicon ingrid
+Epoch 1000/6000 - training set total rating error: 5829.3115797263845
+Epoch 2000/6000 - training set total rating error: 4411.3900588466895
+Epoch 3000/6000 - training set total rating error: 4376.916253703865
+Epoch 4000/6000 - training set total rating error: 4375.899300612357
+Epoch 5000/6000 - training set total rating error: 4375.8442453410635
+Epoch 6000/6000 - training set total rating error: 4375.840267363041
+cluster: 1  product: liquid baggage
+Epoch 1000/6000 - training set total rating error: 4230.734216951721
+Epoch 2000/6000 - training set total rating error: 3982.74627909146
+Epoch 3000/6000 - training set total rating error: 3978.340467788302
+Epoch 4000/6000 - training set total rating error: 3978.150947417692
+Epoch 5000/6000 - training set total rating error: 3978.1370173867426
+Epoch 6000/6000 - training set total rating error: 3978.1358343945917
+cluster: 1  product: logic channel
+Epoch 1000/6000 - training set total rating error: 4222.7628810124015
+Epoch 2000/6000 - training set total rating error: 3364.93955482611
+Epoch 3000/6000 - training set total rating error: 3347.9236786093406
+Epoch 4000/6000 - training set total rating error: 3347.2188365481875
+Epoch 5000/6000 - training set total rating error: 3347.181723895956
+Epoch 6000/6000 - training set total rating error: 3347.1795968772576
+cluster: 1  product: loyal jungle
+Epoch 1000/6000 - training set total rating error: 3416.7440953567784
+Epoch 2000/6000 - training set total rating error: 2635.436560316124
+Epoch 3000/6000 - training set total rating error: 2629.509904145095
+Epoch 4000/6000 - training set total rating error: 2629.428258588778
+Epoch 5000/6000 - training set total rating error: 2629.425992416645
+Epoch 6000/6000 - training set total rating error: 2629.425902638094
+cluster: 1  product: master nobody
+Epoch 1000/6000 - training set total rating error: 6324.290511452169
+Epoch 2000/6000 - training set total rating error: 4784.002937307102
+Epoch 3000/6000 - training set total rating error: 4730.641784993195
+Epoch 4000/6000 - training set total rating error: 4727.598481947556
+Epoch 5000/6000 - training set total rating error: 4727.381300536362
+Epoch 6000/6000 - training set total rating error: 4727.364678869386
+cluster: 1  product: medusa cuba
+Epoch 1000/6000 - training set total rating error: 3281.934021920442
+Epoch 2000/6000 - training set total rating error: 2841.035398010577
+Epoch 3000/6000 - training set total rating error: 2836.223442275873
+Epoch 4000/6000 - training set total rating error: 2836.146041634602
+Epoch 5000/6000 - training set total rating error: 2836.144215551368
+Epoch 6000/6000 - training set total rating error: 2836.1441642859213
+cluster: 1  product: mercy chaos
+Epoch 1000/6000 - training set total rating error: 1202.310154802644
+Epoch 2000/6000 - training set total rating error: 1051.4371183830751
+Epoch 3000/6000 - training set total rating error: 1050.2801511897846
+Epoch 4000/6000 - training set total rating error: 1050.2598240773339
+Epoch 5000/6000 - training set total rating error: 1050.2593362181194
+Epoch 6000/6000 - training set total rating error: 1050.2593218431466
+cluster: 1  product: mineral barcode
+Epoch 1000/6000 - training set total rating error: 3247.8483168351595
+Epoch 2000/6000 - training set total rating error: 2427.7820846005925
+Epoch 3000/6000 - training set total rating error: 2419.0130887923183
+Epoch 4000/6000 - training set total rating error: 2418.848639662614
+Epoch 5000/6000 - training set total rating error: 2418.8443494706517
+Epoch 6000/6000 - training set total rating error: 2418.844209294379
+cluster: 1  product: moment seminar
+Epoch 1000/6000 - training set total rating error: 6110.0068939760195
+Epoch 2000/6000 - training set total rating error: 5289.277695675848
+Epoch 3000/6000 - training set total rating error: 5208.746233990105
+Epoch 4000/6000 - training set total rating error: 5198.561782938063
+Epoch 5000/6000 - training set total rating error: 5197.103618090539
+Epoch 6000/6000 - training set total rating error: 5196.892535072136
+cluster: 1  product: motel marvin
+Epoch 1000/6000 - training set total rating error: 1626.8023934858395
+Epoch 2000/6000 - training set total rating error: 1472.3637689920624
+Epoch 3000/6000 - training set total rating error: 1470.819059765267
+Epoch 4000/6000 - training set total rating error: 1470.7824291659942
+Epoch 5000/6000 - training set total rating error: 1470.781259013019
+Epoch 6000/6000 - training set total rating error: 1470.7812162895164
+cluster: 1  product: neptune before
+Epoch 1000/6000 - training set total rating error: 3311.310663775958
+Epoch 2000/6000 - training set total rating error: 2459.778722268049
+Epoch 3000/6000 - training set total rating error: 2441.5006293185893
+Epoch 4000/6000 - training set total rating error: 2440.856173353767
+Epoch 5000/6000 - training set total rating error: 2440.8281235547965
+Epoch 6000/6000 - training set total rating error: 2440.8268028379653
+cluster: 1  product: ninja saga
+Epoch 1000/6000 - training set total rating error: 1792.1362564349542
+Epoch 2000/6000 - training set total rating error: 1561.3206808696093
+Epoch 3000/6000 - training set total rating error: 1559.2091035248948
+Epoch 4000/6000 - training set total rating error: 1559.164330418384
+Epoch 5000/6000 - training set total rating error: 1559.162745870038
+Epoch 6000/6000 - training set total rating error: 1559.1626770962446
+cluster: 1  product: north speed
+Epoch 1000/6000 - training set total rating error: 4614.479750817999
+Epoch 2000/6000 - training set total rating error: 3172.6867844785497
+Epoch 3000/6000 - training set total rating error: 3152.847222287597
+Epoch 4000/6000 - training set total rating error: 3152.609988631753
+Epoch 5000/6000 - training set total rating error: 3152.605796928685
+Epoch 6000/6000 - training set total rating error: 3152.6057026511025
+cluster: 1  product: nurse october
+Epoch 1000/6000 - training set total rating error: 4383.135337327371
+Epoch 2000/6000 - training set total rating error: 4181.547458593487
+Epoch 3000/6000 - training set total rating error: 4177.520054125291
+Epoch 4000/6000 - training set total rating error: 4177.359360740799
+Epoch 5000/6000 - training set total rating error: 4177.349663816697
+Epoch 6000/6000 - training set total rating error: 4177.348953381896
+cluster: 1  product: office triton
+Epoch 1000/6000 - training set total rating error: 6063.005507601871
+Epoch 2000/6000 - training set total rating error: 5421.065074785926
+Epoch 3000/6000 - training set total rating error: 5386.04443986484
+Epoch 4000/6000 - training set total rating error: 5383.319571272169
+Epoch 5000/6000 - training set total rating error: 5383.05834180387
+Epoch 6000/6000 - training set total rating error: 5383.030155264642
+cluster: 1  product: pardon thomas
+Epoch 1000/6000 - training set total rating error: 3244.4191681096318
+Epoch 2000/6000 - training set total rating error: 2580.8078847351885
+Epoch 3000/6000 - training set total rating error: 2573.283592798552
+Epoch 4000/6000 - training set total rating error: 2573.1546551425795
+Epoch 5000/6000 - training set total rating error: 2573.1516066406493
+Epoch 6000/6000 - training set total rating error: 2573.1515158543048
+cluster: 1  product: parody athena
+Epoch 1000/6000 - training set total rating error: 4938.409263535588
+Epoch 2000/6000 - training set total rating error: 4282.545825793263
+Epoch 3000/6000 - training set total rating error: 4234.980736811519
+Epoch 4000/6000 - training set total rating error: 4231.43311637188
+Epoch 5000/6000 - training set total rating error: 4230.993099798422
+Epoch 6000/6000 - training set total rating error: 4230.920731522825
+cluster: 1  product: pegasus respond
+Epoch 1000/6000 - training set total rating error: 1097.1529017528733
+Epoch 2000/6000 - training set total rating error: 839.0005412188299
+Epoch 3000/6000 - training set total rating error: 837.1479792037247
+Epoch 4000/6000 - training set total rating error: 837.1097190248478
+Epoch 5000/6000 - training set total rating error: 837.1085858203986
+Epoch 6000/6000 - training set total rating error: 837.1085478122737
+cluster: 1  product: percent edison
+Epoch 1000/6000 - training set total rating error: 2180.456905703904
+Epoch 2000/6000 - training set total rating error: 1526.9576912166474
+Epoch 3000/6000 - training set total rating error: 1520.2531961025288
+Epoch 4000/6000 - training set total rating error: 1520.0898562571747
+Epoch 5000/6000 - training set total rating error: 1520.0844719542254
+Epoch 6000/6000 - training set total rating error: 1520.0842712384945
+cluster: 1  product: plume cowboy
+Epoch 1000/6000 - training set total rating error: 3226.7445852873993
+Epoch 2000/6000 - training set total rating error: 2439.4091644979376
+Epoch 3000/6000 - training set total rating error: 2428.521538555699
+Epoch 4000/6000 - training set total rating error: 2428.1379884150324
+Epoch 5000/6000 - training set total rating error: 2428.119504216555
+Epoch 6000/6000 - training set total rating error: 2428.118536199517
+cluster: 1  product: provide flex
+Epoch 1000/6000 - training set total rating error: 4699.476049347676
+Epoch 2000/6000 - training set total rating error: 3641.829886728055
+Epoch 3000/6000 - training set total rating error: 3591.571720552045
+Epoch 4000/6000 - training set total rating error: 3589.915577746279
+Epoch 5000/6000 - training set total rating error: 3589.846697558652
+Epoch 6000/6000 - training set total rating error: 3589.8426819403567
+cluster: 1  product: reverse royal
+Epoch 1000/6000 - training set total rating error: 5908.356909827993
+Epoch 2000/6000 - training set total rating error: 5234.128656645124
+Epoch 3000/6000 - training set total rating error: 5214.429446493649
+Epoch 4000/6000 - training set total rating error: 5214.032594258596
+Epoch 5000/6000 - training set total rating error: 5214.022321354299
+Epoch 6000/6000 - training set total rating error: 5214.021970738058
+cluster: 1  product: rider shine
+Epoch 1000/6000 - training set total rating error: 1694.9921333537748
+Epoch 2000/6000 - training set total rating error: 1292.264810338846
+Epoch 3000/6000 - training set total rating error: 1289.332199619621
+Epoch 4000/6000 - training set total rating error: 1289.2646167750327
+Epoch 5000/6000 - training set total rating error: 1289.2626236142335
+Epoch 6000/6000 - training set total rating error: 1289.2625591582503
+cluster: 1  product: sabine emotion
+Epoch 1000/6000 - training set total rating error: 677.0529027937889
+Epoch 2000/6000 - training set total rating error: 262.2711370429063
+Epoch 3000/6000 - training set total rating error: 258.267628391954
+Epoch 4000/6000 - training set total rating error: 258.2001915320158
+Epoch 5000/6000 - training set total rating error: 258.1987497338417
+Epoch 6000/6000 - training set total rating error: 258.198709818471
+cluster: 1  product: saint texas
+Epoch 1000/6000 - training set total rating error: 4306.171480327239
+Epoch 2000/6000 - training set total rating error: 3541.8081041212863
+Epoch 3000/6000 - training set total rating error: 3524.3680803452694
+Epoch 4000/6000 - training set total rating error: 3523.6891923854932
+Epoch 5000/6000 - training set total rating error: 3523.653393964527
+Epoch 6000/6000 - training set total rating error: 3523.651269002302
+cluster: 1  product: salon pulse
+Epoch 1000/6000 - training set total rating error: 5009.187046372744
+Epoch 2000/6000 - training set total rating error: 3860.4535458583605
+Epoch 3000/6000 - training set total rating error: 3830.6802936374575
+Epoch 4000/6000 - training set total rating error: 3829.7335447492187
+Epoch 5000/6000 - training set total rating error: 3829.683473684773
+Epoch 6000/6000 - training set total rating error: 3829.680021032861
+cluster: 1  product: scale phone
+Epoch 1000/6000 - training set total rating error: 3044.143223120226
+Epoch 2000/6000 - training set total rating error: 2065.9820820783166
+Epoch 3000/6000 - training set total rating error: 2053.461048590429
+Epoch 4000/6000 - training set total rating error: 2053.1322817099385
+Epoch 5000/6000 - training set total rating error: 2053.11911125525
+Epoch 6000/6000 - training set total rating error: 2053.1184541195066
+cluster: 1  product: season arthur
+Epoch 1000/6000 - training set total rating error: 3458.556756862192
+Epoch 2000/6000 - training set total rating error: 3043.685750874784
+Epoch 3000/6000 - training set total rating error: 3039.0608542886685
+Epoch 4000/6000 - training set total rating error: 3038.9210282929716
+Epoch 5000/6000 - training set total rating error: 3038.914749828793
+Epoch 6000/6000 - training set total rating error: 3038.9144117366595
+cluster: 1  product: segment meter
+Epoch 1000/6000 - training set total rating error: 1901.5474786663815
+Epoch 2000/6000 - training set total rating error: 1448.642498234638
+Epoch 3000/6000 - training set total rating error: 1441.9383313480992
+Epoch 4000/6000 - training set total rating error: 1441.7551268680243
+Epoch 5000/6000 - training set total rating error: 1441.7489382526376
+Epoch 6000/6000 - training set total rating error: 1441.7487131772243
+cluster: 1  product: senator ozone
+Epoch 1000/6000 - training set total rating error: 2247.9712966436045
+Epoch 2000/6000 - training set total rating error: 1990.844735744522
+Epoch 3000/6000 - training set total rating error: 1988.5952282507078
+Epoch 4000/6000 - training set total rating error: 1988.5509648932875
+Epoch 5000/6000 - training set total rating error: 1988.5495292268147
+Epoch 6000/6000 - training set total rating error: 1988.5494695852124
+cluster: 1  product: serial organic
+Epoch 1000/6000 - training set total rating error: 5776.1931660441605
+Epoch 2000/6000 - training set total rating error: 5262.025878662256
+Epoch 3000/6000 - training set total rating error: 5255.977899291704
+Epoch 4000/6000 - training set total rating error: 5255.817671443779
+Epoch 5000/6000 - training set total rating error: 5255.8112884120055
+Epoch 6000/6000 - training set total rating error: 5255.810973301243
+cluster: 1  product: shannon resume
+Epoch 1000/6000 - training set total rating error: 820.2096508437379
+Epoch 2000/6000 - training set total rating error: 579.085432986918
+Epoch 3000/6000 - training set total rating error: 575.1027411281038
+Epoch 4000/6000 - training set total rating error: 574.9892401648972
+Epoch 5000/6000 - training set total rating error: 574.9857042789276
+Epoch 6000/6000 - training set total rating error: 574.985591184328
+cluster: 1  product: sheriff java
+Epoch 1000/6000 - training set total rating error: 4597.004343094877
+Epoch 2000/6000 - training set total rating error: 4336.08096307926
+Epoch 3000/6000 - training set total rating error: 4332.323441812118
+Epoch 4000/6000 - training set total rating error: 4332.1559664386605
+Epoch 5000/6000 - training set total rating error: 4332.147066618733
+Epoch 6000/6000 - training set total rating error: 4332.146561631186
+cluster: 1  product: silk gizmo
+Epoch 1000/6000 - training set total rating error: 4753.179740544636
+Epoch 2000/6000 - training set total rating error: 4479.8183669357295
+Epoch 3000/6000 - training set total rating error: 4475.541711467886
+Epoch 4000/6000 - training set total rating error: 4475.338364600899
+Epoch 5000/6000 - training set total rating error: 4475.325053336269
+Epoch 6000/6000 - training set total rating error: 4475.323996963769
+cluster: 1  product: silver plate
+Epoch 1000/6000 - training set total rating error: 4173.712985227641
+Epoch 2000/6000 - training set total rating error: 3899.7688527114033
+Epoch 3000/6000 - training set total rating error: 3893.3337196415673
+Epoch 4000/6000 - training set total rating error: 3893.113811575083
+Epoch 5000/6000 - training set total rating error: 3893.104303506742
+Epoch 6000/6000 - training set total rating error: 3893.103803948416
+cluster: 1  product: similar malta
+Epoch 1000/6000 - training set total rating error: 2023.0203812456898
+Epoch 2000/6000 - training set total rating error: 1813.087949407626
+Epoch 3000/6000 - training set total rating error: 1811.4472252931193
+Epoch 4000/6000 - training set total rating error: 1811.420926986109
+Epoch 5000/6000 - training set total rating error: 1811.4203046048015
+Epoch 6000/6000 - training set total rating error: 1811.4202846165642
+cluster: 1  product: siren junior
+Epoch 1000/6000 - training set total rating error: 1631.7681045841898
+Epoch 2000/6000 - training set total rating error: 1152.84194970264
+Epoch 3000/6000 - training set total rating error: 1148.893468009341
+Epoch 4000/6000 - training set total rating error: 1148.8068536451208
+Epoch 5000/6000 - training set total rating error: 1148.804204827459
+Epoch 6000/6000 - training set total rating error: 1148.8041086915055
+cluster: 1  product: solid express
+Epoch 1000/6000 - training set total rating error: 4484.15458378346
+Epoch 2000/6000 - training set total rating error: 3778.0220188168914
+Epoch 3000/6000 - training set total rating error: 3771.589803799053
+Epoch 4000/6000 - training set total rating error: 3771.3582416521012
+Epoch 5000/6000 - training set total rating error: 3771.3446485257587
+Epoch 6000/6000 - training set total rating error: 3771.3436679959573
+cluster: 1  product: spray karma
+Epoch 1000/6000 - training set total rating error: 2760.960050091214
+Epoch 2000/6000 - training set total rating error: 2191.4003052269886
+Epoch 3000/6000 - training set total rating error: 2184.789209533797
+Epoch 4000/6000 - training set total rating error: 2184.679449615477
+Epoch 5000/6000 - training set total rating error: 2184.676912892205
+Epoch 6000/6000 - training set total rating error: 2184.6768377522194
+cluster: 1  product: stella micro
+Epoch 1000/6000 - training set total rating error: 1934.927880355702
+Epoch 2000/6000 - training set total rating error: 1798.4940875159657
+Epoch 3000/6000 - training set total rating error: 1796.1276919600014
+Epoch 4000/6000 - training set total rating error: 1796.0372283011327
+Epoch 5000/6000 - training set total rating error: 1796.0327088209856
+Epoch 6000/6000 - training set total rating error: 1796.0324568145732
+cluster: 1  product: stop door
+Epoch 1000/6000 - training set total rating error: 910.5622404152905
+Epoch 2000/6000 - training set total rating error: 647.5774493075684
+Epoch 3000/6000 - training set total rating error: 646.0215521867067
+Epoch 4000/6000 - training set total rating error: 645.9920790498487
+Epoch 5000/6000 - training set total rating error: 645.9914115732663
+Epoch 6000/6000 - training set total rating error: 645.9913954579672
+cluster: 1  product: sushi import
+Epoch 1000/6000 - training set total rating error: 1400.3227877142951
+Epoch 2000/6000 - training set total rating error: 1010.6927844440612
+Epoch 3000/6000 - training set total rating error: 1007.626959722044
+Epoch 4000/6000 - training set total rating error: 1007.5773423957609
+Epoch 5000/6000 - training set total rating error: 1007.576344929839
+Epoch 6000/6000 - training set total rating error: 1007.5763226326798
+cluster: 1  product: tarzan juliet
+Epoch 1000/6000 - training set total rating error: 3963.1312206188986
+Epoch 2000/6000 - training set total rating error: 3580.946188089918
+Epoch 3000/6000 - training set total rating error: 3573.2271570268654
+Epoch 4000/6000 - training set total rating error: 3572.91581838196
+Epoch 5000/6000 - training set total rating error: 3572.898161688123
+Epoch 6000/6000 - training set total rating error: 3572.8969549426142
+cluster: 1  product: telecom pluto
+Epoch 1000/6000 - training set total rating error: 4954.360948766041
+Epoch 2000/6000 - training set total rating error: 4404.406989588241
+Epoch 3000/6000 - training set total rating error: 4396.177931825306
+Epoch 4000/6000 - training set total rating error: 4395.930507492681
+Epoch 5000/6000 - training set total rating error: 4395.918442713321
+Epoch 6000/6000 - training set total rating error: 4395.917592453453
+cluster: 1  product: textile strange
+Epoch 1000/6000 - training set total rating error: 3242.261248466176
+Epoch 2000/6000 - training set total rating error: 3056.853654977284
+Epoch 3000/6000 - training set total rating error: 3054.3217355641927
+Epoch 4000/6000 - training set total rating error: 3054.215340041277
+Epoch 5000/6000 - training set total rating error: 3054.2094517976384
+Epoch 6000/6000 - training set total rating error: 3054.209101389699
+cluster: 1  product: theory france
+Epoch 1000/6000 - training set total rating error: 4199.352687906333
+Epoch 2000/6000 - training set total rating error: 2266.9797750596035
+Epoch 3000/6000 - training set total rating error: 2243.721057816414
+Epoch 4000/6000 - training set total rating error: 2243.4676727062297
+Epoch 5000/6000 - training set total rating error: 2243.4636827835734
+Epoch 6000/6000 - training set total rating error: 2243.4636090525355
+cluster: 1  product: torso cricket
+Epoch 1000/6000 - training set total rating error: 3739.283618402446
+Epoch 2000/6000 - training set total rating error: 3496.4361106039037
+Epoch 3000/6000 - training set total rating error: 3493.540104070441
+Epoch 4000/6000 - training set total rating error: 3493.468408460707
+Epoch 5000/6000 - training set total rating error: 3493.465370995688
+Epoch 6000/6000 - training set total rating error: 3493.4652036024513
+cluster: 1  product: tower fantasy
+Epoch 1000/6000 - training set total rating error: 5314.543569464714
+Epoch 2000/6000 - training set total rating error: 4887.3403439499525
+Epoch 3000/6000 - training set total rating error: 4871.357628554009
+Epoch 4000/6000 - training set total rating error: 4870.464088442353
+Epoch 5000/6000 - training set total rating error: 4870.403909399628
+Epoch 6000/6000 - training set total rating error: 4870.399544285888
+cluster: 1  product: trivial neon
+Epoch 1000/6000 - training set total rating error: 2770.687831607893
+Epoch 2000/6000 - training set total rating error: 2537.8581050461744
+Epoch 3000/6000 - training set total rating error: 2535.51254337665
+Epoch 4000/6000 - training set total rating error: 2535.4723581501953
+Epoch 5000/6000 - training set total rating error: 2535.4714015476316
+Epoch 6000/6000 - training set total rating error: 2535.4713729483306
+cluster: 1  product: tuna relax
+Epoch 1000/6000 - training set total rating error: 5171.740859160704
+Epoch 2000/6000 - training set total rating error: 4634.541431686032
+Epoch 3000/6000 - training set total rating error: 4619.656361563717
+Epoch 4000/6000 - training set total rating error: 4619.090641468093
+Epoch 5000/6000 - training set total rating error: 4619.056196051745
+Epoch 6000/6000 - training set total rating error: 4619.053706136749
+cluster: 1  product: tunnel nerve
+Epoch 1000/6000 - training set total rating error: 1308.4451621593228
+Epoch 2000/6000 - training set total rating error: 878.2133857539319
+Epoch 3000/6000 - training set total rating error: 874.9630227715783
+Epoch 4000/6000 - training set total rating error: 874.9168677119034
+Epoch 5000/6000 - training set total rating error: 874.9159872107292
+Epoch 6000/6000 - training set total rating error: 874.9159667160724
+cluster: 1  product: turtle pierre
+Epoch 1000/6000 - training set total rating error: 3584.9511610433296
+Epoch 2000/6000 - training set total rating error: 2569.1943730324347
+Epoch 3000/6000 - training set total rating error: 2548.3788101741784
+Epoch 4000/6000 - training set total rating error: 2548.0616842575605
+Epoch 5000/6000 - training set total rating error: 2548.0556057969416
+Epoch 6000/6000 - training set total rating error: 2548.0554734078078
+cluster: 1  product: update vibrate
+Epoch 1000/6000 - training set total rating error: 3511.0887257660734
+Epoch 2000/6000 - training set total rating error: 2882.589797848012
+Epoch 3000/6000 - training set total rating error: 2874.7165022962736
+Epoch 4000/6000 - training set total rating error: 2874.5868765853734
+Epoch 5000/6000 - training set total rating error: 2874.584080433524
+Epoch 6000/6000 - training set total rating error: 2874.5840100691676
+cluster: 1  product: vampire teacher
+Epoch 1000/6000 - training set total rating error: 6213.154758252084
+Epoch 2000/6000 - training set total rating error: 5894.680748457592
+Epoch 3000/6000 - training set total rating error: 5887.1087176795945
+Epoch 4000/6000 - training set total rating error: 5886.678900865849
+Epoch 5000/6000 - training set total rating error: 5886.642178274205
+Epoch 6000/6000 - training set total rating error: 5886.638202645644
+cluster: 1  product: ventura next
+Epoch 1000/6000 - training set total rating error: 6846.398866361753
+Epoch 2000/6000 - training set total rating error: 6094.753357947782
+Epoch 3000/6000 - training set total rating error: 6047.24239117597
+Epoch 4000/6000 - training set total rating error: 6044.023461291153
+Epoch 5000/6000 - training set total rating error: 6043.7227876289735
+Epoch 6000/6000 - training set total rating error: 6043.689434786428
+cluster: 1  product: vodka bahama
+Epoch 1000/6000 - training set total rating error: 4213.988099133598
+Epoch 2000/6000 - training set total rating error: 3790.3928659948847
+Epoch 3000/6000 - training set total rating error: 3784.110239284508
+Epoch 4000/6000 - training set total rating error: 3783.9602661505924
+Epoch 5000/6000 - training set total rating error: 3783.955464320802
+Epoch 6000/6000 - training set total rating error: 3783.9552804860236
+cluster: 1  product: volume pasta
+Epoch 1000/6000 - training set total rating error: 4965.6066799647715
+Epoch 2000/6000 - training set total rating error: 4581.599683865481
+Epoch 3000/6000 - training set total rating error: 4576.020740573345
+Epoch 4000/6000 - training set total rating error: 4575.798536552852
+Epoch 5000/6000 - training set total rating error: 4575.785319839773
+Epoch 6000/6000 - training set total rating error: 4575.78444050405
+cluster: 1  product: zero nikita
+Epoch 1000/6000 - training set total rating error: 2731.185682651402
+Epoch 2000/6000 - training set total rating error: 2448.761886924837
+Epoch 3000/6000 - training set total rating error: 2446.825765560583
+Epoch 4000/6000 - training set total rating error: 2446.8003362854597
+Epoch 5000/6000 - training set total rating error: 2446.7998442929843
+Epoch 6000/6000 - training set total rating error: 2446.799830523791
+cluster: 0  product: alaska basil
+Epoch 1000/6000 - training set total rating error: 3087.5621692019204
+Epoch 2000/6000 - training set total rating error: 2351.9163120057933
+Epoch 3000/6000 - training set total rating error: 2346.682360794079
+Epoch 4000/6000 - training set total rating error: 2346.590139886782
+Epoch 5000/6000 - training set total rating error: 2346.587773882813
+Epoch 6000/6000 - training set total rating error: 2346.587705423684
+cluster: 0  product: alcohol future
+Epoch 1000/6000 - training set total rating error: 3890.7693724068376
+Epoch 2000/6000 - training set total rating error: 3605.8882917186816
+Epoch 3000/6000 - training set total rating error: 3598.741049585205
+Epoch 4000/6000 - training set total rating error: 3598.4569721652197
+Epoch 5000/6000 - training set total rating error: 3598.4408058451177
+Epoch 6000/6000 - training set total rating error: 3598.4397116544933
+cluster: 0  product: alice ticket
+Epoch 1000/6000 - training set total rating error: 3041.6384158555647
+Epoch 2000/6000 - training set total rating error: 2695.8866653505474
+Epoch 3000/6000 - training set total rating error: 2691.5893390655165
+Epoch 4000/6000 - training set total rating error: 2691.48395823361
+Epoch 5000/6000 - training set total rating error: 2691.48099647702
+Epoch 6000/6000 - training set total rating error: 2691.4809081978788
+cluster: 0  product: alien potato
+Epoch 1000/6000 - training set total rating error: 1911.7726267503263
+Epoch 2000/6000 - training set total rating error: 1740.339491579767
+Epoch 3000/6000 - training set total rating error: 1737.8719767299822
+Epoch 4000/6000 - training set total rating error: 1737.7992977733652
+Epoch 5000/6000 - training set total rating error: 1737.7966385180653
+Epoch 6000/6000 - training set total rating error: 1737.796531476629
+cluster: 0  product: asia jacket
+Epoch 1000/6000 - training set total rating error: 1820.4023788651762
+Epoch 2000/6000 - training set total rating error: 1503.512885740332
+Epoch 3000/6000 - training set total rating error: 1499.6703720377764
+Epoch 4000/6000 - training set total rating error: 1499.5738867080179
+Epoch 5000/6000 - training set total rating error: 1499.5708440881808
+Epoch 6000/6000 - training set total rating error: 1499.570735413321
+cluster: 0  product: aztec iris
+Epoch 1000/6000 - training set total rating error: 2387.578203920565
+Epoch 2000/6000 - training set total rating error: 1996.3575766537995
+Epoch 3000/6000 - training set total rating error: 1990.6527630719834
+Epoch 4000/6000 - training set total rating error: 1990.473368033503
+Epoch 5000/6000 - training set total rating error: 1990.465766540073
+Epoch 6000/6000 - training set total rating error: 1990.4654004227864
+cluster: 0  product: balance hostel
+Epoch 1000/6000 - training set total rating error: 2903.5734336351406
+Epoch 2000/6000 - training set total rating error: 1509.1099257485457
+Epoch 3000/6000 - training set total rating error: 1496.2672807190818
+Epoch 4000/6000 - training set total rating error: 1495.981228032754
+Epoch 5000/6000 - training set total rating error: 1495.9716182311968
+Epoch 6000/6000 - training set total rating error: 1495.9712684262013
+cluster: 0  product: betty today
+Epoch 1000/6000 - training set total rating error: 5947.8275613759715
+Epoch 2000/6000 - training set total rating error: 4800.348800079762
+Epoch 3000/6000 - training set total rating error: 4782.325512406211
+Epoch 4000/6000 - training set total rating error: 4781.992216073686
+Epoch 5000/6000 - training set total rating error: 4781.978271783677
+Epoch 6000/6000 - training set total rating error: 4781.977413443709
+cluster: 0  product: boston house
+Epoch 1000/6000 - training set total rating error: 3615.0462984685814
+Epoch 2000/6000 - training set total rating error: 3119.7506284790334
+Epoch 3000/6000 - training set total rating error: 3113.618001889951
+Epoch 4000/6000 - training set total rating error: 3113.484819603562
+Epoch 5000/6000 - training set total rating error: 3113.4801750976017
+Epoch 6000/6000 - training set total rating error: 3113.4799595735544
+cluster: 0  product: bronze sweden
+Epoch 1000/6000 - training set total rating error: 1276.6018106231327
+Epoch 2000/6000 - training set total rating error: 1208.4396925609713
+Epoch 3000/6000 - training set total rating error: 1207.1567486828876
+Epoch 4000/6000 - training set total rating error: 1207.120599963058
+Epoch 5000/6000 - training set total rating error: 1207.1195261009807
+Epoch 6000/6000 - training set total rating error: 1207.1194931948323
+cluster: 0  product: bundle forget
+Epoch 1000/6000 - training set total rating error: 4979.613834743451
+Epoch 2000/6000 - training set total rating error: 4357.631130419055
+Epoch 3000/6000 - training set total rating error: 4329.519260292377
+Epoch 4000/6000 - training set total rating error: 4328.263721927033
+Epoch 5000/6000 - training set total rating error: 4328.183883162219
+Epoch 6000/6000 - training set total rating error: 4328.177462662501
+cluster: 0  product: cairo monarch
+Epoch 1000/6000 - training set total rating error: 5582.904962303892
+Epoch 2000/6000 - training set total rating error: 4550.3917338015635
+Epoch 3000/6000 - training set total rating error: 4527.336447393792
+Epoch 4000/6000 - training set total rating error: 4526.739865109963
+Epoch 5000/6000 - training set total rating error: 4526.710542107925
+Epoch 6000/6000 - training set total rating error: 4526.708626728398
+cluster: 0  product: choice copy
+Epoch 1000/6000 - training set total rating error: 607.8113483289701
+Epoch 2000/6000 - training set total rating error: 408.42218836752323
+Epoch 3000/6000 - training set total rating error: 405.680107240225
+Epoch 4000/6000 - training set total rating error: 405.60001624924973
+Epoch 5000/6000 - training set total rating error: 405.5969051325725
+Epoch 6000/6000 - training set total rating error: 405.59676745819706
+cluster: 0  product: cinema complex
+Epoch 1000/6000 - training set total rating error: 3073.35507764265
+Epoch 2000/6000 - training set total rating error: 2290.1562738075195
+Epoch 3000/6000 - training set total rating error: 2281.857022340949
+Epoch 4000/6000 - training set total rating error: 2281.583050377044
+Epoch 5000/6000 - training set total rating error: 2281.5706566572135
+Epoch 6000/6000 - training set total rating error: 2281.570040509312
+cluster: 0  product: cipher empty
+Epoch 1000/6000 - training set total rating error: 938.6744081368716
+Epoch 2000/6000 - training set total rating error: 528.5035592812602
+Epoch 3000/6000 - training set total rating error: 526.0382822291378
+Epoch 4000/6000 - training set total rating error: 525.9811644508185
+Epoch 5000/6000 - training set total rating error: 525.9791872687026
+Epoch 6000/6000 - training set total rating error: 525.9791087477765
+cluster: 0  product: cockpit circle
+Epoch 1000/6000 - training set total rating error: 4907.279454715185
+Epoch 2000/6000 - training set total rating error: 4624.703495943875
+Epoch 3000/6000 - training set total rating error: 4623.264026516946
+Epoch 4000/6000 - training set total rating error: 4623.230833655225
+Epoch 5000/6000 - training set total rating error: 4623.229242949899
+Epoch 6000/6000 - training set total rating error: 4623.2291472373845
+cluster: 0  product: comedy clean
+Epoch 1000/6000 - training set total rating error: 858.4286086721962
+Epoch 2000/6000 - training set total rating error: 768.2981741085696
+Epoch 3000/6000 - training set total rating error: 767.2643694882945
+Epoch 4000/6000 - training set total rating error: 767.240538900096
+Epoch 5000/6000 - training set total rating error: 767.2398074355599
+Epoch 6000/6000 - training set total rating error: 767.2397811095846
+cluster: 0  product: daniel global
+Epoch 1000/6000 - training set total rating error: 4912.200680514141
+Epoch 2000/6000 - training set total rating error: 3374.228196445114
+Epoch 3000/6000 - training set total rating error: 3325.782742114749
+Epoch 4000/6000 - training set total rating error: 3324.1868507016643
+Epoch 5000/6000 - training set total rating error: 3324.109079268629
+Epoch 6000/6000 - training set total rating error: 3324.1046916177124
+cluster: 0  product: degree forever
+Epoch 1000/6000 - training set total rating error: 457.1484935621373
+Epoch 2000/6000 - training set total rating error: 143.31635011844605
+Epoch 3000/6000 - training set total rating error: 141.15844059323163
+Epoch 4000/6000 - training set total rating error: 141.09845200449442
+Epoch 5000/6000 - training set total rating error: 141.09610657973923
+Epoch 6000/6000 - training set total rating error: 141.09600604092682
+cluster: 0  product: diana chariot
+Epoch 1000/6000 - training set total rating error: 2448.2671893900465
+Epoch 2000/6000 - training set total rating error: 1404.8378333417652
+Epoch 3000/6000 - training set total rating error: 1398.6356982681048
+Epoch 4000/6000 - training set total rating error: 1398.4389384856584
+Epoch 5000/6000 - training set total rating error: 1398.4300516613132
+Epoch 6000/6000 - training set total rating error: 1398.4296291702615
+cluster: 0  product: diesel jason
+Epoch 1000/6000 - training set total rating error: 4820.326330950273
+Epoch 2000/6000 - training set total rating error: 4203.857148510988
+Epoch 3000/6000 - training set total rating error: 4159.9471498704925
+Epoch 4000/6000 - training set total rating error: 4158.241231314178
+Epoch 5000/6000 - training set total rating error: 4158.153273627746
+Epoch 6000/6000 - training set total rating error: 4158.147734861071
+cluster: 0  product: diploma vocal
+Epoch 1000/6000 - training set total rating error: 4516.62956601022
+Epoch 2000/6000 - training set total rating error: 4098.742778521261
+Epoch 3000/6000 - training set total rating error: 4091.1132388796873
+Epoch 4000/6000 - training set total rating error: 4090.747478287579
+Epoch 5000/6000 - training set total rating error: 4090.725387029634
+Epoch 6000/6000 - training set total rating error: 4090.7239692609905
+cluster: 0  product: epoxy insect
+Epoch 1000/6000 - training set total rating error: 4261.882369548146
+Epoch 2000/6000 - training set total rating error: 3081.137271677412
+Epoch 3000/6000 - training set total rating error: 3059.191986357475
+Epoch 4000/6000 - training set total rating error: 3058.539766834479
+Epoch 5000/6000 - training set total rating error: 3058.513321874114
+Epoch 6000/6000 - training set total rating error: 3058.5120674633504
+cluster: 0  product: explain heaven
+Epoch 1000/6000 - training set total rating error: 3507.48163324788
+Epoch 2000/6000 - training set total rating error: 3378.5716527834484
+Epoch 3000/6000 - training set total rating error: 3375.575920425465
+Epoch 4000/6000 - training set total rating error: 3375.4377586235087
+Epoch 5000/6000 - training set total rating error: 3375.429977181752
+Epoch 6000/6000 - training set total rating error: 3375.429514022979
+cluster: 0  product: flame street
+Epoch 1000/6000 - training set total rating error: 3001.8905479179325
+Epoch 2000/6000 - training set total rating error: 2295.8883588214417
+Epoch 3000/6000 - training set total rating error: 2287.6593316249823
+Epoch 4000/6000 - training set total rating error: 2287.4972508619235
+Epoch 5000/6000 - training set total rating error: 2287.4922755173925
+Epoch 6000/6000 - training set total rating error: 2287.492070094483
+cluster: 0  product: fractal heart
+Epoch 1000/6000 - training set total rating error: 3956.2797160144382
+Epoch 2000/6000 - training set total rating error: 3301.0209353453483
+Epoch 3000/6000 - training set total rating error: 3278.8524883371197
+Epoch 4000/6000 - training set total rating error: 3278.258885856868
+Epoch 5000/6000 - training set total rating error: 3278.235917292379
+Epoch 6000/6000 - training set total rating error: 3278.2348105653996
+cluster: 0  product: fresh shave
+Epoch 1000/6000 - training set total rating error: 1969.0978479473486
+Epoch 2000/6000 - training set total rating error: 1479.8059407572598
+Epoch 3000/6000 - training set total rating error: 1476.0217317094268
+Epoch 4000/6000 - training set total rating error: 1475.9486965974297
+Epoch 5000/6000 - training set total rating error: 1475.9465302619242
+Epoch 6000/6000 - training set total rating error: 1475.946448249663
+cluster: 0  product: frozen command
+Epoch 1000/6000 - training set total rating error: 2492.8413170689914
+Epoch 2000/6000 - training set total rating error: 1680.9239654483324
+Epoch 3000/6000 - training set total rating error: 1672.9107153248724
+Epoch 4000/6000 - training set total rating error: 1672.724793819061
+Epoch 5000/6000 - training set total rating error: 1672.7185170594391
+Epoch 6000/6000 - training set total rating error: 1672.7182638767372
+cluster: 0  product: gelatin prime
+Epoch 1000/6000 - training set total rating error: 1901.4806772434538
+Epoch 2000/6000 - training set total rating error: 1820.3270651276262
+Epoch 3000/6000 - training set total rating error: 1819.4593380589763
+Epoch 4000/6000 - training set total rating error: 1819.4416578001915
+Epoch 5000/6000 - training set total rating error: 1819.4412252512443
+Epoch 6000/6000 - training set total rating error: 1819.441213673539
+cluster: 0  product: glass alpine
+Epoch 1000/6000 - training set total rating error: 5384.648173273713
+Epoch 2000/6000 - training set total rating error: 4463.508029288854
+Epoch 3000/6000 - training set total rating error: 4429.9058339881685
+Epoch 4000/6000 - training set total rating error: 4428.623101009898
+Epoch 5000/6000 - training set total rating error: 4428.570391453018
+Epoch 6000/6000 - training set total rating error: 4428.568041109536
+cluster: 0  product: good info
+Epoch 1000/6000 - training set total rating error: 1693.4548407937232
+Epoch 2000/6000 - training set total rating error: 1510.0914689200122
+Epoch 3000/6000 - training set total rating error: 1508.0130524765434
+Epoch 4000/6000 - training set total rating error: 1507.9756641175375
+Epoch 5000/6000 - training set total rating error: 1507.9748162874307
+Epoch 6000/6000 - training set total rating error: 1507.9747928360657
+cluster: 0  product: gossip cotton
+Epoch 1000/6000 - training set total rating error: 966.0388070008415
+Epoch 2000/6000 - training set total rating error: 367.2701776114777
+Epoch 3000/6000 - training set total rating error: 365.5438828021954
+Epoch 4000/6000 - training set total rating error: 365.5285884856941
+Epoch 5000/6000 - training set total rating error: 365.5283496501943
+Epoch 6000/6000 - training set total rating error: 365.52834523019
+cluster: 0  product: hand inca
+Epoch 1000/6000 - training set total rating error: 4991.420787625141
+Epoch 2000/6000 - training set total rating error: 4885.988273198656
+Epoch 3000/6000 - training set total rating error: 4883.331118177455
+Epoch 4000/6000 - training set total rating error: 4883.198714170357
+Epoch 5000/6000 - training set total rating error: 4883.189774729118
+Epoch 6000/6000 - training set total rating error: 4883.18905060221
+cluster: 0  product: harbor moral
+Epoch 1000/6000 - training set total rating error: 1944.4252598127568
+Epoch 2000/6000 - training set total rating error: 1741.675919702418
+Epoch 3000/6000 - training set total rating error: 1740.8197840746216
+Epoch 4000/6000 - training set total rating error: 1740.8101966167108
+Epoch 5000/6000 - training set total rating error: 1740.8100537955088
+Epoch 6000/6000 - training set total rating error: 1740.810051399831
+cluster: 0  product: helena poncho
+Epoch 1000/6000 - training set total rating error: 6528.767326199829
+Epoch 2000/6000 - training set total rating error: 5979.184872457931
+Epoch 3000/6000 - training set total rating error: 5947.318691666497
+Epoch 4000/6000 - training set total rating error: 5945.561975768662
+Epoch 5000/6000 - training set total rating error: 5945.405939874333
+Epoch 6000/6000 - training set total rating error: 5945.38177531996
+cluster: 0  product: henry distant
+Epoch 1000/6000 - training set total rating error: 4668.050642280595
+Epoch 2000/6000 - training set total rating error: 3837.5066719794677
+Epoch 3000/6000 - training set total rating error: 3822.798977092219
+Epoch 4000/6000 - training set total rating error: 3822.1566879159495
+Epoch 5000/6000 - training set total rating error: 3822.1166654774747
+Epoch 6000/6000 - training set total rating error: 3822.1137760950414
+cluster: 0  product: invent topic
+Epoch 1000/6000 - training set total rating error: 1696.4816657159813
+Epoch 2000/6000 - training set total rating error: 1234.0105602297037
+Epoch 3000/6000 - training set total rating error: 1230.7503346130313
+Epoch 4000/6000 - training set total rating error: 1230.6989611737113
+Epoch 5000/6000 - training set total rating error: 1230.6979204664235
+Epoch 6000/6000 - training set total rating error: 1230.6978974563776
+cluster: 0  product: judge sunday
+Epoch 1000/6000 - training set total rating error: 5654.401625419982
+Epoch 2000/6000 - training set total rating error: 3856.991254794069
+Epoch 3000/6000 - training set total rating error: 3806.16299949225
+Epoch 4000/6000 - training set total rating error: 3804.124649743992
+Epoch 5000/6000 - training set total rating error: 3803.9942733637604
+Epoch 6000/6000 - training set total rating error: 3803.983790937581
+cluster: 0  product: july miami
+Epoch 1000/6000 - training set total rating error: 3688.215190861082
+Epoch 2000/6000 - training set total rating error: 3364.6672684134983
+Epoch 3000/6000 - training set total rating error: 3355.3948077016375
+Epoch 4000/6000 - training set total rating error: 3354.974029218041
+Epoch 5000/6000 - training set total rating error: 3354.949149148086
+Epoch 6000/6000 - training set total rating error: 3354.947438827865
+cluster: 0  product: kermit desert
+Epoch 1000/6000 - training set total rating error: 2666.7776025511816
+Epoch 2000/6000 - training set total rating error: 2410.298845181778
+Epoch 3000/6000 - training set total rating error: 2407.6931550770983
+Epoch 4000/6000 - training set total rating error: 2407.619401001558
+Epoch 5000/6000 - training set total rating error: 2407.6165083598275
+Epoch 6000/6000 - training set total rating error: 2407.616377859164
+cluster: 0  product: leonid antenna
+Epoch 1000/6000 - training set total rating error: 2406.6068920486596
+Epoch 2000/6000 - training set total rating error: 1669.5083946753334
+Epoch 3000/6000 - training set total rating error: 1663.81263369737
+Epoch 4000/6000 - training set total rating error: 1663.7255824383985
+Epoch 5000/6000 - training set total rating error: 1663.7234956054083
+Epoch 6000/6000 - training set total rating error: 1663.7234332749667
+cluster: 0  product: lesson switch
+Epoch 1000/6000 - training set total rating error: 6072.217482733545
+Epoch 2000/6000 - training set total rating error: 5854.6559398052395
+Epoch 3000/6000 - training set total rating error: 5845.02560984918
+Epoch 4000/6000 - training set total rating error: 5844.021665171402
+Epoch 5000/6000 - training set total rating error: 5843.864958028718
+Epoch 6000/6000 - training set total rating error: 5843.835096885325
+cluster: 0  product: lexicon ingrid
+Epoch 1000/6000 - training set total rating error: 4271.173430966433
+Epoch 2000/6000 - training set total rating error: 3211.383289977698
+Epoch 3000/6000 - training set total rating error: 3195.5044639720004
+Epoch 4000/6000 - training set total rating error: 3194.887465011645
+Epoch 5000/6000 - training set total rating error: 3194.851569284857
+Epoch 6000/6000 - training set total rating error: 3194.8492279103393
+cluster: 0  product: liquid baggage
+Epoch 1000/6000 - training set total rating error: 1973.0694057052692
+Epoch 2000/6000 - training set total rating error: 1622.9759300468725
+Epoch 3000/6000 - training set total rating error: 1615.0200594413484
+Epoch 4000/6000 - training set total rating error: 1614.778867687536
+Epoch 5000/6000 - training set total rating error: 1614.7702228246048
+Epoch 6000/6000 - training set total rating error: 1614.7698747701743
+cluster: 0  product: logic channel
+Epoch 1000/6000 - training set total rating error: 3828.563206179293
+Epoch 2000/6000 - training set total rating error: 3479.417442300031
+Epoch 3000/6000 - training set total rating error: 3472.253444445032
+Epoch 4000/6000 - training set total rating error: 3472.048377485498
+Epoch 5000/6000 - training set total rating error: 3472.041147099342
+Epoch 6000/6000 - training set total rating error: 3472.040857491173
+cluster: 0  product: loyal jungle
+Epoch 1000/6000 - training set total rating error: 1664.1430111227214
+Epoch 2000/6000 - training set total rating error: 1494.0845252245688
+Epoch 3000/6000 - training set total rating error: 1493.0186213900333
+Epoch 4000/6000 - training set total rating error: 1493.0020701755184
+Epoch 5000/6000 - training set total rating error: 1493.0016195688568
+Epoch 6000/6000 - training set total rating error: 1493.0016013733634
+cluster: 0  product: master nobody
+Epoch 1000/6000 - training set total rating error: 529.1823241690366
+Epoch 2000/6000 - training set total rating error: 340.2966229126571
+Epoch 3000/6000 - training set total rating error: 339.150815024802
+Epoch 4000/6000 - training set total rating error: 339.1248938487613
+Epoch 5000/6000 - training set total rating error: 339.1238679402893
+Epoch 6000/6000 - training set total rating error: 339.1238195772645
+cluster: 0  product: medusa cuba
+Epoch 1000/6000 - training set total rating error: 2020.3856957026487
+Epoch 2000/6000 - training set total rating error: 1490.7276745296745
+Epoch 3000/6000 - training set total rating error: 1488.476448910682
+Epoch 4000/6000 - training set total rating error: 1488.423976434685
+Epoch 5000/6000 - training set total rating error: 1488.4211021208228
+Epoch 6000/6000 - training set total rating error: 1488.4209050309657
+cluster: 0  product: mercy chaos
+Epoch 1000/6000 - training set total rating error: 4071.3083107039884
+Epoch 2000/6000 - training set total rating error: 3989.6430165327956
+Epoch 3000/6000 - training set total rating error: 3988.1544355078504
+Epoch 4000/6000 - training set total rating error: 3988.0932450197
+Epoch 5000/6000 - training set total rating error: 3988.0900490646904
+Epoch 6000/6000 - training set total rating error: 3988.0898596989123
+cluster: 0  product: mineral barcode
+Epoch 1000/6000 - training set total rating error: 4635.892789882092
+Epoch 2000/6000 - training set total rating error: 4116.505889109708
+Epoch 3000/6000 - training set total rating error: 4092.9546392604057
+Epoch 4000/6000 - training set total rating error: 4091.365025376301
+Epoch 5000/6000 - training set total rating error: 4091.240120559117
+Epoch 6000/6000 - training set total rating error: 4091.2295613371316
+cluster: 0  product: moment seminar
+Epoch 1000/6000 - training set total rating error: 4561.478448533107
+Epoch 2000/6000 - training set total rating error: 3790.784748022758
+Epoch 3000/6000 - training set total rating error: 3771.4013919865033
+Epoch 4000/6000 - training set total rating error: 3770.397332720184
+Epoch 5000/6000 - training set total rating error: 3770.3246403537073
+Epoch 6000/6000 - training set total rating error: 3770.318805018038
+cluster: 0  product: motel marvin
+Epoch 1000/6000 - training set total rating error: 3348.948313891958
+Epoch 2000/6000 - training set total rating error: 2815.4709373226906
+Epoch 3000/6000 - training set total rating error: 2804.5985115575913
+Epoch 4000/6000 - training set total rating error: 2804.3328640127547
+Epoch 5000/6000 - training set total rating error: 2804.325639574588
+Epoch 6000/6000 - training set total rating error: 2804.325422971227
+cluster: 0  product: neptune before
+Epoch 1000/6000 - training set total rating error: 4057.9300953271013
+Epoch 2000/6000 - training set total rating error: 3127.4865483543376
+Epoch 3000/6000 - training set total rating error: 3111.5045330600933
+Epoch 4000/6000 - training set total rating error: 3111.1984367910104
+Epoch 5000/6000 - training set total rating error: 3111.188780317494
+Epoch 6000/6000 - training set total rating error: 3111.188362219017
+cluster: 0  product: ninja saga
+Epoch 1000/6000 - training set total rating error: 3903.359498017169
+Epoch 2000/6000 - training set total rating error: 3266.7328279403664
+Epoch 3000/6000 - training set total rating error: 3255.599814171467
+Epoch 4000/6000 - training set total rating error: 3255.259487523654
+Epoch 5000/6000 - training set total rating error: 3255.241501050004
+Epoch 6000/6000 - training set total rating error: 3255.2402192536642
+cluster: 0  product: north speed
+Epoch 1000/6000 - training set total rating error: 4108.049076175276
+Epoch 2000/6000 - training set total rating error: 3238.1507971606115
+Epoch 3000/6000 - training set total rating error: 3222.488652876249
+Epoch 4000/6000 - training set total rating error: 3221.6656809925107
+Epoch 5000/6000 - training set total rating error: 3221.606962661091
+Epoch 6000/6000 - training set total rating error: 3221.6023502934077
+cluster: 0  product: nurse october
+Epoch 1000/6000 - training set total rating error: 1124.3123783533179
+Epoch 2000/6000 - training set total rating error: 614.079253437205
+Epoch 3000/6000 - training set total rating error: 611.400982002513
+Epoch 4000/6000 - training set total rating error: 611.3591292325146
+Epoch 5000/6000 - training set total rating error: 611.3583036620008
+Epoch 6000/6000 - training set total rating error: 611.3582849616923
+cluster: 0  product: office triton
+Epoch 1000/6000 - training set total rating error: 3028.6259699086145
+Epoch 2000/6000 - training set total rating error: 2410.3027545545465
+Epoch 3000/6000 - training set total rating error: 2402.3703443751333
+Epoch 4000/6000 - training set total rating error: 2402.2216587277408
+Epoch 5000/6000 - training set total rating error: 2402.2171055395997
+Epoch 6000/6000 - training set total rating error: 2402.2169169103486
+cluster: 0  product: pardon thomas
+Epoch 1000/6000 - training set total rating error: 2069.3759594573826
+Epoch 2000/6000 - training set total rating error: 1499.887640576354
+Epoch 3000/6000 - training set total rating error: 1495.511767153989
+Epoch 4000/6000 - training set total rating error: 1495.4330021277783
+Epoch 5000/6000 - training set total rating error: 1495.430927813879
+Epoch 6000/6000 - training set total rating error: 1495.4308687406767
+cluster: 0  product: parody athena
+Epoch 1000/6000 - training set total rating error: 6572.952824100459
+Epoch 2000/6000 - training set total rating error: 5311.865380263893
+Epoch 3000/6000 - training set total rating error: 5231.997690219376
+Epoch 4000/6000 - training set total rating error: 5228.309623242732
+Epoch 5000/6000 - training set total rating error: 5228.154417039708
+Epoch 6000/6000 - training set total rating error: 5228.147057002321
+cluster: 0  product: pegasus respond
+Epoch 1000/6000 - training set total rating error: 3061.5524931895184
+Epoch 2000/6000 - training set total rating error: 2646.19516512467
+Epoch 3000/6000 - training set total rating error: 2640.409229249198
+Epoch 4000/6000 - training set total rating error: 2640.281930719465
+Epoch 5000/6000 - training set total rating error: 2640.2782193108183
+Epoch 6000/6000 - training set total rating error: 2640.27809646411
+cluster: 0  product: percent edison
+Epoch 1000/6000 - training set total rating error: 1768.7841399999218
+Epoch 2000/6000 - training set total rating error: 1348.6585897596287
+Epoch 3000/6000 - training set total rating error: 1344.1431896726233
+Epoch 4000/6000 - training set total rating error: 1344.028704643804
+Epoch 5000/6000 - training set total rating error: 1344.0248512711999
+Epoch 6000/6000 - training set total rating error: 1344.0246891054721
+cluster: 0  product: plume cowboy
+Epoch 1000/6000 - training set total rating error: 6825.548220537994
+Epoch 2000/6000 - training set total rating error: 5302.832970485814
+Epoch 3000/6000 - training set total rating error: 5243.20212870342
+Epoch 4000/6000 - training set total rating error: 5240.402525928527
+Epoch 5000/6000 - training set total rating error: 5240.152000722326
+Epoch 6000/6000 - training set total rating error: 5240.118204960166
+cluster: 0  product: provide flex
+Epoch 1000/6000 - training set total rating error: 4661.200082973359
+Epoch 2000/6000 - training set total rating error: 3706.738141641291
+Epoch 3000/6000 - training set total rating error: 3693.2462612460818
+Epoch 4000/6000 - training set total rating error: 3692.7603661273856
+Epoch 5000/6000 - training set total rating error: 3692.725006646575
+Epoch 6000/6000 - training set total rating error: 3692.7218506002787
+cluster: 0  product: reverse royal
+Epoch 1000/6000 - training set total rating error: 5042.536749414707
+Epoch 2000/6000 - training set total rating error: 4593.826544379643
+Epoch 3000/6000 - training set total rating error: 4582.704480005785
+Epoch 4000/6000 - training set total rating error: 4582.179397927898
+Epoch 5000/6000 - training set total rating error: 4582.144234234961
+Epoch 6000/6000 - training set total rating error: 4582.141495778874
+cluster: 0  product: rider shine
+Epoch 1000/6000 - training set total rating error: 4121.485963170744
+Epoch 2000/6000 - training set total rating error: 3664.458316778231
+Epoch 3000/6000 - training set total rating error: 3657.965078768062
+Epoch 4000/6000 - training set total rating error: 3657.8179213700537
+Epoch 5000/6000 - training set total rating error: 3657.813659834465
+Epoch 6000/6000 - training set total rating error: 3657.8135150058224
+cluster: 0  product: sabine emotion
+Epoch 1000/6000 - training set total rating error: 5395.611193918873
+Epoch 2000/6000 - training set total rating error: 5061.364468989199
+Epoch 3000/6000 - training set total rating error: 5043.3867909260525
+Epoch 4000/6000 - training set total rating error: 5042.065915813345
+Epoch 5000/6000 - training set total rating error: 5041.9566780844425
+Epoch 6000/6000 - training set total rating error: 5041.947194360421
+cluster: 0  product: saint texas
+Epoch 1000/6000 - training set total rating error: 5139.149787327215
+Epoch 2000/6000 - training set total rating error: 4426.498567918887
+Epoch 3000/6000 - training set total rating error: 4414.369728318405
+Epoch 4000/6000 - training set total rating error: 4414.048098999616
+Epoch 5000/6000 - training set total rating error: 4414.03301287388
+Epoch 6000/6000 - training set total rating error: 4414.032061591807
+cluster: 0  product: salon pulse
+Epoch 1000/6000 - training set total rating error: 1296.5758932217514
+Epoch 2000/6000 - training set total rating error: 1083.6556584646328
+Epoch 3000/6000 - training set total rating error: 1079.6108611105421
+Epoch 4000/6000 - training set total rating error: 1079.4445891760242
+Epoch 5000/6000 - training set total rating error: 1079.4365362477586
+Epoch 6000/6000 - training set total rating error: 1079.4361223442984
+cluster: 0  product: scale phone
+Epoch 1000/6000 - training set total rating error: 3800.5015160425246
+Epoch 2000/6000 - training set total rating error: 3359.835995093292
+Epoch 3000/6000 - training set total rating error: 3354.0872026711518
+Epoch 4000/6000 - training set total rating error: 3353.9598297996736
+Epoch 5000/6000 - training set total rating error: 3353.953117359982
+Epoch 6000/6000 - training set total rating error: 3353.952644354155
+cluster: 0  product: season arthur
+Epoch 1000/6000 - training set total rating error: 2777.4351320087067
+Epoch 2000/6000 - training set total rating error: 2354.2280057526787
+Epoch 3000/6000 - training set total rating error: 2350.6540934814593
+Epoch 4000/6000 - training set total rating error: 2350.5763593010315
+Epoch 5000/6000 - training set total rating error: 2350.5740681112907
+Epoch 6000/6000 - training set total rating error: 2350.57398689438
+cluster: 0  product: segment meter
+Epoch 1000/6000 - training set total rating error: 2447.9961630016483
+Epoch 2000/6000 - training set total rating error: 1950.4531568390075
+Epoch 3000/6000 - training set total rating error: 1944.7091509266547
+Epoch 4000/6000 - training set total rating error: 1944.5353329068885
+Epoch 5000/6000 - training set total rating error: 1944.5288252776852
+Epoch 6000/6000 - training set total rating error: 1944.528570963488
+cluster: 0  product: senator ozone
+Epoch 1000/6000 - training set total rating error: 1870.7403701745286
+Epoch 2000/6000 - training set total rating error: 1606.8886856654042
+Epoch 3000/6000 - training set total rating error: 1603.12284916906
+Epoch 4000/6000 - training set total rating error: 1603.0127329679674
+Epoch 5000/6000 - training set total rating error: 1603.008613653651
+Epoch 6000/6000 - training set total rating error: 1603.0084444990064
+cluster: 0  product: serial organic
+Epoch 1000/6000 - training set total rating error: 1874.7769216590964
+Epoch 2000/6000 - training set total rating error: 1685.450438101081
+Epoch 3000/6000 - training set total rating error: 1681.4873670829086
+Epoch 4000/6000 - training set total rating error: 1681.3354962955016
+Epoch 5000/6000 - training set total rating error: 1681.328673129129
+Epoch 6000/6000 - training set total rating error: 1681.3283481504272
+cluster: 0  product: shannon resume
+Epoch 1000/6000 - training set total rating error: 771.3768763402355
+Epoch 2000/6000 - training set total rating error: 577.1302367299346
+Epoch 3000/6000 - training set total rating error: 575.1714493733125
+Epoch 4000/6000 - training set total rating error: 575.1188234545399
+Epoch 5000/6000 - training set total rating error: 575.1168208471967
+Epoch 6000/6000 - training set total rating error: 575.1167349326927
+cluster: 0  product: sheriff java
+Epoch 1000/6000 - training set total rating error: 5025.671906689495
+Epoch 2000/6000 - training set total rating error: 4717.71806901172
+Epoch 3000/6000 - training set total rating error: 4708.161835496337
+Epoch 4000/6000 - training set total rating error: 4707.67400166954
+Epoch 5000/6000 - training set total rating error: 4707.6391554460015
+Epoch 6000/6000 - training set total rating error: 4707.6361738267815
+cluster: 0  product: silk gizmo
+Epoch 1000/6000 - training set total rating error: 5713.466562654119
+Epoch 2000/6000 - training set total rating error: 5044.824632787268
+Epoch 3000/6000 - training set total rating error: 5020.237676147902
+Epoch 4000/6000 - training set total rating error: 5019.14634754223
+Epoch 5000/6000 - training set total rating error: 5019.0716856897925
+Epoch 6000/6000 - training set total rating error: 5019.065103721942
+cluster: 0  product: silver plate
+Epoch 1000/6000 - training set total rating error: 3232.8667023481903
+Epoch 2000/6000 - training set total rating error: 2853.281266174237
+Epoch 3000/6000 - training set total rating error: 2848.577717616002
+Epoch 4000/6000 - training set total rating error: 2848.474223454069
+Epoch 5000/6000 - training set total rating error: 2848.4704375387532
+Epoch 6000/6000 - training set total rating error: 2848.4702330147966
+cluster: 0  product: similar malta
+Epoch 1000/6000 - training set total rating error: 5285.089567617303
+Epoch 2000/6000 - training set total rating error: 4479.2022323730225
+Epoch 3000/6000 - training set total rating error: 4442.3635404460165
+Epoch 4000/6000 - training set total rating error: 4441.297081574216
+Epoch 5000/6000 - training set total rating error: 4441.2554430059
+Epoch 6000/6000 - training set total rating error: 4441.253251438919
+cluster: 0  product: siren junior
+Epoch 1000/6000 - training set total rating error: 3367.1572049648926
+Epoch 2000/6000 - training set total rating error: 2632.833451342922
+Epoch 3000/6000 - training set total rating error: 2626.666306740813
+Epoch 4000/6000 - training set total rating error: 2626.567091869552
+Epoch 5000/6000 - training set total rating error: 2626.5643200690915
+Epoch 6000/6000 - training set total rating error: 2626.564219225588
+cluster: 0  product: solid express
+Epoch 1000/6000 - training set total rating error: 3615.0566615286534
+Epoch 2000/6000 - training set total rating error: 3372.829106513255
+Epoch 3000/6000 - training set total rating error: 3368.5346330205166
+Epoch 4000/6000 - training set total rating error: 3368.269165337494
+Epoch 5000/6000 - training set total rating error: 3368.245859253135
+Epoch 6000/6000 - training set total rating error: 3368.2436608414064
+cluster: 0  product: spray karma
+Epoch 1000/6000 - training set total rating error: 3473.473347772026
+Epoch 2000/6000 - training set total rating error: 2982.4169607240046
+Epoch 3000/6000 - training set total rating error: 2973.423340925141
+Epoch 4000/6000 - training set total rating error: 2972.9667554938565
+Epoch 5000/6000 - training set total rating error: 2972.9345713187336
+Epoch 6000/6000 - training set total rating error: 2972.932114348293
+cluster: 0  product: stella micro
+Epoch 1000/6000 - training set total rating error: 4266.759336591006
+Epoch 2000/6000 - training set total rating error: 3386.8474666711913
+Epoch 3000/6000 - training set total rating error: 3369.189146580539
+Epoch 4000/6000 - training set total rating error: 3368.5809018025147
+Epoch 5000/6000 - training set total rating error: 3368.5435348555943
+Epoch 6000/6000 - training set total rating error: 3368.54062201723
+cluster: 0  product: stop door
+Epoch 1000/6000 - training set total rating error: 4362.447066840964
+Epoch 2000/6000 - training set total rating error: 3841.5820921547174
+Epoch 3000/6000 - training set total rating error: 3825.9266460153353
+Epoch 4000/6000 - training set total rating error: 3825.326558164279
+Epoch 5000/6000 - training set total rating error: 3825.2970129649134
+Epoch 6000/6000 - training set total rating error: 3825.295413995135
+cluster: 0  product: sushi import
+Epoch 1000/6000 - training set total rating error: 2901.567081076986
+Epoch 2000/6000 - training set total rating error: 2652.0655603442983
+Epoch 3000/6000 - training set total rating error: 2649.6111054596677
+Epoch 4000/6000 - training set total rating error: 2649.5612390929823
+Epoch 5000/6000 - training set total rating error: 2649.5598484226252
+Epoch 6000/6000 - training set total rating error: 2649.5598016105664
+cluster: 0  product: tarzan juliet
+Epoch 1000/6000 - training set total rating error: 1380.4501364532432
+Epoch 2000/6000 - training set total rating error: 780.7952241935045
+Epoch 3000/6000 - training set total rating error: 771.1271358062388
+Epoch 4000/6000 - training set total rating error: 770.7933453977245
+Epoch 5000/6000 - training set total rating error: 770.7782699484388
+Epoch 6000/6000 - training set total rating error: 770.7775287615997
+cluster: 0  product: telecom pluto
+Epoch 1000/6000 - training set total rating error: 2671.925238664284
+Epoch 2000/6000 - training set total rating error: 2416.255384208734
+Epoch 3000/6000 - training set total rating error: 2413.8094061006364
+Epoch 4000/6000 - training set total rating error: 2413.7185807604233
+Epoch 5000/6000 - training set total rating error: 2413.714141205757
+Epoch 6000/6000 - training set total rating error: 2413.713887279546
+cluster: 0  product: textile strange
+Epoch 1000/6000 - training set total rating error: 5030.8520405238905
+Epoch 2000/6000 - training set total rating error: 4007.604229168509
+Epoch 3000/6000 - training set total rating error: 3989.1021203001824
+Epoch 4000/6000 - training set total rating error: 3988.6292143191
+Epoch 5000/6000 - training set total rating error: 3988.609967441177
+Epoch 6000/6000 - training set total rating error: 3988.608897776048
+cluster: 0  product: theory france
+Epoch 1000/6000 - training set total rating error: 1584.2128148957722
+Epoch 2000/6000 - training set total rating error: 1291.4043685352083
+Epoch 3000/6000 - training set total rating error: 1289.1844439926754
+Epoch 4000/6000 - training set total rating error: 1289.1531799400552
+Epoch 5000/6000 - training set total rating error: 1289.152575675723
+Epoch 6000/6000 - training set total rating error: 1289.1525598458325
+cluster: 0  product: torso cricket
+Epoch 1000/6000 - training set total rating error: 6035.0920966103595
+Epoch 2000/6000 - training set total rating error: 5329.392701708854
+Epoch 3000/6000 - training set total rating error: 5312.434082939325
+Epoch 4000/6000 - training set total rating error: 5311.646501148524
+Epoch 5000/6000 - training set total rating error: 5311.59122489168
+Epoch 6000/6000 - training set total rating error: 5311.586644305534
+cluster: 0  product: tower fantasy
+Epoch 1000/6000 - training set total rating error: 1554.4433123342246
+Epoch 2000/6000 - training set total rating error: 1482.6145370886506
+Epoch 3000/6000 - training set total rating error: 1481.4384750968175
+Epoch 4000/6000 - training set total rating error: 1481.3948236902022
+Epoch 5000/6000 - training set total rating error: 1481.3925956829844
+Epoch 6000/6000 - training set total rating error: 1481.392458367839
+cluster: 0  product: trivial neon
+Epoch 1000/6000 - training set total rating error: 1960.559603166646
+Epoch 2000/6000 - training set total rating error: 1715.868632244177
+Epoch 3000/6000 - training set total rating error: 1713.1260111698002
+Epoch 4000/6000 - training set total rating error: 1713.0417326692211
+Epoch 5000/6000 - training set total rating error: 1713.0382218224347
+Epoch 6000/6000 - training set total rating error: 1713.038057322249
+cluster: 0  product: tuna relax
+Epoch 1000/6000 - training set total rating error: 2135.286904749253
+Epoch 2000/6000 - training set total rating error: 1620.0992862606277
+Epoch 3000/6000 - training set total rating error: 1614.0221451165044
+Epoch 4000/6000 - training set total rating error: 1613.9054027695977
+Epoch 5000/6000 - training set total rating error: 1613.9022198759785
+Epoch 6000/6000 - training set total rating error: 1613.90211076956
+cluster: 0  product: tunnel nerve
+Epoch 1000/6000 - training set total rating error: 3561.8437478013466
+Epoch 2000/6000 - training set total rating error: 3083.829477497105
+Epoch 3000/6000 - training set total rating error: 3078.405954883507
+Epoch 4000/6000 - training set total rating error: 3078.265326718999
+Epoch 5000/6000 - training set total rating error: 3078.2597247167164
+Epoch 6000/6000 - training set total rating error: 3078.2594462744205
+cluster: 0  product: turtle pierre
+Epoch 1000/6000 - training set total rating error: 4268.50667770932
+Epoch 2000/6000 - training set total rating error: 4118.072206931088
+Epoch 3000/6000 - training set total rating error: 4115.907488440203
+Epoch 4000/6000 - training set total rating error: 4115.839545574185
+Epoch 5000/6000 - training set total rating error: 4115.836340768361
+Epoch 6000/6000 - training set total rating error: 4115.836134466886
+cluster: 0  product: update vibrate
+Epoch 1000/6000 - training set total rating error: 3064.241040990299
+Epoch 2000/6000 - training set total rating error: 2898.1386399485996
+Epoch 3000/6000 - training set total rating error: 2896.408087161525
+Epoch 4000/6000 - training set total rating error: 2896.371176648645
+Epoch 5000/6000 - training set total rating error: 2896.3700555423843
+Epoch 6000/6000 - training set total rating error: 2896.3700122053947
+cluster: 0  product: vampire teacher
+Epoch 1000/6000 - training set total rating error: 5602.0239843204645
+Epoch 2000/6000 - training set total rating error: 4674.544811973016
+Epoch 3000/6000 - training set total rating error: 4654.65910111021
+Epoch 4000/6000 - training set total rating error: 4653.797039454894
+Epoch 5000/6000 - training set total rating error: 4653.7479812571455
+Epoch 6000/6000 - training set total rating error: 4653.744839941137
+cluster: 0  product: ventura next
+Epoch 1000/6000 - training set total rating error: 2320.9874225525878
+Epoch 2000/6000 - training set total rating error: 1680.0620754671816
+Epoch 3000/6000 - training set total rating error: 1675.546288856243
+Epoch 4000/6000 - training set total rating error: 1675.4790933214897
+Epoch 5000/6000 - training set total rating error: 1675.4775543006026
+Epoch 6000/6000 - training set total rating error: 1675.4775109247335
+cluster: 0  product: vodka bahama
+Epoch 1000/6000 - training set total rating error: 5565.343196870608
+Epoch 2000/6000 - training set total rating error: 5232.691172415677
+Epoch 3000/6000 - training set total rating error: 5217.924699134373
+Epoch 4000/6000 - training set total rating error: 5216.72917136791
+Epoch 5000/6000 - training set total rating error: 5216.600024887575
+Epoch 6000/6000 - training set total rating error: 5216.583173719185
+cluster: 0  product: volume pasta
+Epoch 1000/6000 - training set total rating error: 3853.859740854688
+Epoch 2000/6000 - training set total rating error: 3350.486414888347
+Epoch 3000/6000 - training set total rating error: 3342.6073024444845
+Epoch 4000/6000 - training set total rating error: 3342.313576105691
+Epoch 5000/6000 - training set total rating error: 3342.2986879433274
+Epoch 6000/6000 - training set total rating error: 3342.2978715277295
+cluster: 0  product: zero nikita
+Epoch 1000/6000 - training set total rating error: 2662.113615649784
+Epoch 2000/6000 - training set total rating error: 2522.0395109848787
+Epoch 3000/6000 - training set total rating error: 2519.179718862
+Epoch 4000/6000 - training set total rating error: 2519.097060153623
+Epoch 5000/6000 - training set total rating error: 2519.0941362258063
+Epoch 6000/6000 - training set total rating error: 2519.0939988220416
